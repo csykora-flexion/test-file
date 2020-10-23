@@ -1,0 +1,1688 @@
+HDR~CPT codes, descriptions and other data only are copyright 2020 American Medical Association.
+HDR~All rights reserved. CPT is a registered trademark of the American Medical Association (AMA).
+2020~G0027~  ~20200101~N~00006.50~Semen analysis
+2020~G0103~  ~20200101~N~00019.31~Psa screening
+2020~G0123~  ~20200101~N~00020.26~Screen cerv/vag thin layer
+2020~G0143~  ~20200101~N~00027.05~Scr c/v cyto,thinlayer,rescr
+2020~G0144~  ~20200101~N~00043.97~Scr c/v cyto,thinlayer,rescr
+2020~G0145~  ~20200101~N~00026.49~Scr c/v cyto,thinlayer,rescr
+2020~G0147~  ~20200101~N~00015.12~Scr c/v cyto, automated sys
+2020~G0148~  ~20200101~N~00031.94~Scr c/v cyto, autosys, rescr
+2020~G0306~  ~20200101~N~00007.77~Cbc/diffwbc w/o platelet
+2020~G0307~  ~20200101~N~00006.47~Cbc without platelet
+2020~G0328~  ~20200101~N~00018.05~Fecal blood scrn immunoassay
+2020~G0328~QW~20200101~N~00018.05~Fecal blood scrn immunoassay
+2020~G0432~  ~20200101~N~00019.57~Eia hiv-1/hiv-2 screen
+2020~G0433~  ~20200101~N~00018.29~Elisa hiv-1/hiv-2 screen
+2020~G0433~QW~20200101~N~00018.29~Elisa hiv-1/hiv-2 screen
+2020~G0435~  ~20200101~N~00011.98~Oral hiv-1/hiv-2 screen
+2020~G0471~  ~20200101~N~00005.00~Ven blood coll snf/hha
+2020~G0472~  ~20200101~N~00046.35~Hep c screen high risk/other
+2020~G0472~QW~20200101~N~00046.35~Hep c screen high risk/other
+2020~G0475~  ~20200101~N~00024.08~Hiv combination assay
+2020~G0475~QW~20200101~N~00024.08~Hiv combination assay
+2020~G0476~  ~20200101~N~00035.09~Hpv combo assay ca screen
+2020~G0480~  ~20200101~N~00114.43~Drug test def 1-7 classes
+2020~G0481~  ~20200101~N~00156.59~Drug test def 8-14 classes
+2020~G0482~  ~20200101~N~00198.74~Drug test def 15-21 classes
+2020~G0483~  ~20200101~N~00246.92~Drug test def 22+ classes
+2020~G0499~  ~20200101~N~00028.27~Hepb screen high risk indiv
+2020~G0659~  ~20200101~N~00062.14~Drug test def simple all cl
+2020~G2023~  ~20200101~N~00023.46~Specimen collect COVID-19
+2020~G2024~  ~20200101~N~00025.46~Spec coll SNF/Lab COVID-19
+2020~G9143~  ~20200101~N~00120.72~Warfarin respon genetic test
+2020~P2028~  ~20200101~N~00004.95~Cephalin floculation test
+2020~P2029~  ~20200101~N~00004.95~Congo red blood test
+2020~P2031~  ~20200101~N~00004.95~Hair analysis
+2020~P2033~  ~20200101~N~00004.95~Blood thymol turbidity
+2020~P2038~  ~20200101~N~00004.95~Blood mucoprotein
+2020~P3000~  ~20200101~N~00015.12~Screen pap by tech w md supv
+2020~P9612~  ~20200101~N~00003.00~Catheterize for urine spec
+2020~P9615~  ~20200101~N~00003.00~Urine specimen collect mult
+2020~Q0111~  ~20200101~N~00015.12~Wet mounts/ w preparations
+2020~Q0112~  ~20200101~N~00005.83~Potassium hydroxide preps
+2020~Q0113~  ~20200101~N~00004.27~Pinworm examinations
+2020~Q0114~  ~20200101~N~00009.74~Fern test
+2020~Q0115~  ~20200101~N~00025.00~Post-coital mucous exam
+2020~U0001~  ~20200101~L~00000.00~2019-ncov diagnostic p
+2020~U0002~  ~20200101~L~00000.00~Covid-19 lab test non-cdc
+2020~U0003~  ~20200101~N~00100.00~Cov-19 amp prb hgh thruput
+2020~U0004~  ~20200101~N~00100.00~Cov-19 test non-cdc hgh thru
+2020~0001U~  ~20200101~N~00720.00~Rbc dna hea 35 ag 11 bld grp
+2020~0002M~  ~20200101~N~00503.40~Liver dis 10 assays w/ash
+2020~0002U~  ~20200101~N~00025.00~Onc clrct 3 ur metab alg plp
+2020~0003M~  ~20200101~N~00503.40~Liver dis 10 assays w/nash
+2020~0003U~  ~20200101~N~00950.00~Onc ovar 5 prtn ser alg scor
+2020~0004M~  ~20200101~N~00079.00~Scoliosis dna alys
+2020~0005U~  ~20200101~N~00760.00~Onco prst8 3 gene ur alg
+2020~0006M~  ~20200101~N~00150.00~Onc hep gene risk classifier
+2020~0006U~  ~20200101~N~00246.92~Detc ia meds 120+ analytes
+2020~0007M~  ~20200101~N~00375.00~Onc gastro 51 gene nomogram
+2020~0007U~  ~20200101~N~00114.43~Rx test prsmv ur w/def conf
+2020~0008U~  ~20200101~N~00597.91~Hpylori detcj abx rstnc dna
+2020~0009U~  ~20200101~N~00107.00~Onc brst ca erbb2 amp/nonamp
+2020~0010U~  ~20200101~N~00427.26~Nfct ds strn typ whl gen seq
+2020~0011M~  ~20200101~N~00760.00~Onc prst8 ca mrna 12 gen alg
+2020~0011U~  ~20200101~N~00114.43~Rx mntr lc-ms/ms oral fluid
+2020~0012M~  ~20200101~N~00760.00~Onc mrna 5 gen rsk urthl ca
+2020~0012U~  ~20200101~N~02515.60~Germln do gene reargmt detcj
+2020~0013M~  ~20200101~N~00760.00~Onc mrna 5 gen recr urthl ca
+2020~0013U~  ~20200101~N~02515.60~Onc sld org neo gene reargmt
+2020~0014M~  ~20200101~L~00000.00~Liver ds alys 3 bmrk srm alg
+2020~0014U~  ~20200101~N~02515.60~Hem hmtlmf neo gene reargmt
+2020~0016U~  ~20200101~N~00163.96~Onc hmtlmf neo rna bcr/abl1
+2020~0017U~  ~20200101~N~00091.66~Onc hmtlmf neo jak2 mut dna
+2020~0018U~  ~20200101~N~03002.09~Onc thyr 10 microrna seq alg
+2020~0019U~  ~20200101~N~03675.00~Onc rna tiss predict alg
+2020~0021U~  ~20200101~N~00760.00~Onc prst8 detcj 8 autoantb
+2020~0022U~  ~20200101~N~01950.00~Trgt gen seq dna&rna 23 gene
+2020~0023U~  ~20200101~N~00248.51~Onc aml dna detcj/nondetcj
+2020~0024U~  ~20200101~N~00034.19~Glyca nuc mr spectrsc quan
+2020~0025U~  ~20200101~N~00085.77~Tenofovir liq chrom ur quan
+2020~0026U~  ~20200101~N~03600.00~Onc thyr dna&mrna 112 genes
+2020~0027U~  ~20200101~N~00121.91~Jak2 gene trgt seq alys
+2020~0029U~  ~20200101~N~00742.27~Rx metab advrs trgt seq alys
+2020~0030U~  ~20200101~N~00134.13~Rx metab warf trgt seq alys
+2020~0031U~  ~20200101~N~00174.81~Cyp1a2 gene
+2020~0032U~  ~20200101~N~00174.81~Comt gene
+2020~0033U~  ~20200101~N~00349.62~Htr2a htr2c genes
+2020~0034U~  ~20200101~N~00466.17~Tpmt nudt15 genes
+2020~0035U~  ~20200101~N~00540.99~Neuro csf prion prtn qual
+2020~0036U~  ~20200101~N~04780.00~Xome tum & nml spec seq alys
+2020~0037U~  ~20200101~N~03500.00~Trgt gen seq dna 324 genes
+2020~0038U~  ~20200101~N~00029.60~Vitamin d srm microsamp quan
+2020~0039U~  ~20200101~N~00013.74~Dna antb 2strand hi avidity
+2020~0040U~  ~20200101~N~00409.90~Bcr/abl1 gene major bp quan
+2020~0041U~  ~20200101~N~00017.21~B brgdrferi antb 5 prtn igm
+2020~0042U~  ~20200101~N~00017.21~B brgdrferi antb 12 prtn igg
+2020~0043U~  ~20200101~N~00014.86~Tbrf b grp antb 4 prtn igm
+2020~0044U~  ~20200101~N~00014.86~Tbrf b grp antb 4 prtn igg
+2020~0045U~  ~20200101~N~03873.00~Onc brst dux carc is 12 gene
+2020~0046U~  ~20200101~L~00000.00~Flt3 gene itd variants quan
+2020~0047U~  ~20200101~N~03873.00~Onc prst8 mrna 17 gene alg
+2020~0048U~  ~20200101~N~02919.60~Onc sld org neo dna 468 gene
+2020~0049U~  ~20200101~L~00000.00~Npm1 gene analysis quan
+2020~0050U~  ~20200101~N~02916.60~Trgt gen seq dna 194 genes
+2020~0051U~  ~20200101~N~00193.71~Rx mntr lc-ms/ms ur 31 pnl
+2020~0052U~  ~20200101~N~00033.86~Lpoprtn bld w/5 maj classes
+2020~0053U~  ~20200101~N~02030.00~Onc prst8 ca fish alys 4 gen
+2020~0054U~  ~20200101~N~00148.96~Rx mntr 14+ drugs & sbsts
+2020~0055U~  ~20200101~N~03240.00~Card hrt trnspl 96 dna seq
+2020~0056U~  ~20200101~N~02515.60~Hem aml dna gene reargmt
+2020~0058U~  ~20200101~N~00322.96~Onc merkel cll carc srm quan
+2020~0059U~  ~20200101~N~00322.96~Onc merkel cll carc srm +/-
+2020~0060U~  ~20200101~N~00759.05~Twn zyg gen seq alys chrms2
+2020~0061U~  ~20200101~N~00025.10~Tc meas 5 bmrk sfdi m-s alys
+2020~0062U~  ~20200101~L~00000.00~Ai sle igg&igm alys 80 bmrk
+2020~0063U~  ~20200101~L~00000.00~Neuro autism 32 amines alg
+2020~0064U~  ~20200101~N~00031.33~Antb tp total&rpr ia qual
+2020~0065U~  ~20200101~N~00018.09~Syfls tst nontreponemal antb
+2020~0066U~  ~20200101~N~00015.29~Pamg-1 ia cervico-vag fluid
+2020~0067U~  ~20200101~L~00000.00~Onc brst imhchem prfl 4 bmrk
+2020~0068U~  ~20200101~N~00142.63~Candida species pnl amp prb
+2020~0069U~  ~20200101~N~00380.00~Onc clrct microrna mir-31-3p
+2020~0070U~  ~20200101~N~00676.37~Cyp2d6 gen com&slct rar vrnt
+2020~0071U~  ~20200101~N~00301.35~Cyp2d6 full gene sequence
+2020~0072U~  ~20200101~N~00450.91~Cyp2d6 gen cyp2d6-2d7 hybrid
+2020~0073U~  ~20200101~N~00450.91~Cyp2d6 gen cyp2d7-2d6 hybrid
+2020~0074U~  ~20200101~N~00450.91~Cyp2d6 nonduplicated gene
+2020~0075U~  ~20200101~N~00450.91~Cyp2d6 5' gene dup/mlt
+2020~0076U~  ~20200101~N~00450.91~Cyp2d6 3' gene dup/mlt
+2020~0077U~  ~20200101~L~00000.00~Ig paraprotein qual bld/ur
+2020~0078U~  ~20200101~N~00450.91~Pain mgt opi use gnotyp pnl
+2020~0080U~  ~20200101~N~03520.00~Onc lng 5 clin rsk factr alg
+2020~0082U~  ~20200101~N~00246.92~Rx test def 90+ rx/sbsts ur
+2020~0083U~  ~20200101~L~00000.00~Onc rspse chemo cntrst tomog
+2020~0084U~  ~20200101~N~00720.00~Rbc dna gnotyp 10 bld groups
+2020~0086U~  ~20200101~L~00000.00~Nfct ds bact&fng org id 6+
+2020~0087U~  ~20200101~L~00000.00~Crd hrt trnspl mrna 1283 gen
+2020~0088U~  ~20200101~L~00000.00~Trnsplj kdn algrft rej 1494
+2020~0089U~  ~20200101~N~00760.00~Onc mlnma prame & linc00518
+2020~0090U~  ~20200101~N~01755.00~Onc cutan mlnma mrna 23 gene
+2020~0092U~  ~20200101~L~00000.00~Onc lng 3 prtn bmrk plsm alg
+2020~0093U~  ~20200101~N~00062.14~Rx mntr 65 com drugs urine
+2020~0094U~  ~20200101~L~00000.00~Genome rapid sequence alys
+2020~0095U~  ~20200101~L~00000.00~Inflm ee elisa alys alg
+2020~0096U~  ~20200101~N~00035.09~Hpv hi risk types male urine
+2020~0097U~  ~20200101~L~00000.00~Gi pathogen 22 targets
+2020~0098U~  ~20200101~L~00000.00~Respir pathogen 14 targets
+2020~0099U~  ~20200101~L~00000.00~Respir pathogen 20 targets
+2020~0100U~  ~20200101~L~00000.00~Respir pathogen 21 targets
+2020~0101U~  ~20200101~N~01169.80~Hered colon ca do 15 genes
+2020~0102U~  ~20200101~N~01117.98~Hered brst ca rltd do 17 gen
+2020~0103U~  ~20200101~N~01117.98~Hered ova ca pnl 24 genes
+2020~0105U~  ~20200101~N~00950.00~Neph ckd mult eclia tum nec
+2020~0106U~  ~20200101~L~00000.00~Gstr emptg 7 timed brth spec
+2020~0107U~  ~20200101~N~00016.00~C diff tox ag detcj ia stool
+2020~0108U~  ~20200101~L~00000.00~Gi barrett esoph 9 prtn bmrk
+2020~0109U~  ~20200101~N~00142.63~Id aspergillus dna 4 species
+2020~0110U~  ~20200101~N~00027.11~Rx mntr 1+oral onc rx&sbsts
+2020~0111U~  ~20200101~N~00682.29~Onc colon ca kras&nras alys
+2020~0112U~  ~20200101~L~00000.00~Iadi 16s&18s rrna genes
+2020~0113U~  ~20200101~N~00760.00~Onc prst8 pca3&tmprss2-erg
+2020~0114U~  ~20200101~L~00000.00~Gi barretts esoph vim&ccna1
+2020~0115U~  ~20200101~L~00000.00~Respir iadna 18 viral&2 bact
+2020~0116U~  ~20200101~N~00246.92~Rx mntr nzm ia 35+oral flu
+2020~0117U~  ~20200101~L~00000.00~Pain mgmt 11 endogenous anal
+2020~0118U~  ~20200101~L~00000.00~Trnsplj don-drv cll-fr dna
+2020~0119U~  ~20200101~L~00000.00~Crd ceramides liq chrom plsm
+2020~0120U~  ~20200101~N~02510.21~Onc b cll lymphm mrna 58 gen
+2020~0121U~  ~20200101~L~00000.00~Sc dis vcam-1 whole blood
+2020~0122U~  ~20200101~L~00000.00~Sc dis p-selectin whl blood
+2020~0123U~  ~20200101~L~00000.00~Mchnl fragility rbc prflg
+2020~0124U~  ~20200101~N~00055.54~Ftl cgen abnor 3 analytes
+2020~0125U~  ~20200101~N~00069.52~Ftl cgen abnor prnt comp 5
+2020~0126U~  ~20200101~N~00069.52~Ftl cgen abnor prnt comp 5 y
+2020~0127U~  ~20200101~N~00055.54~Ob pe 3 analytes
+2020~0128U~  ~20200101~N~00055.54~Ob pe 3 analytes y chrmsm
+2020~0129U~  ~20200101~N~01117.98~Hered brst ca rltd do panel
+2020~0130U~  ~20200101~N~00584.90~Hered colon ca do mrna pnl
+2020~0131U~  ~20200101~L~00000.00~Hered brst ca rltd do pnl 13
+2020~0132U~  ~20200101~L~00000.00~Hered ova ca rltd do pnl 17
+2020~0133U~  ~20200101~L~00000.00~Hered prst8 ca rltd do 11
+2020~0134U~  ~20200101~L~00000.00~Hered pan ca mrna pnl 18 gen
+2020~0135U~  ~20200101~L~00000.00~Hered gyn ca mrna pnl 12 gen
+2020~0136U~  ~20200101~L~00000.00~Atm mrna seq alys
+2020~0137U~  ~20200101~L~00000.00~Palb2 mrna seq alys
+2020~0138U~  ~20200101~L~00000.00~Brca1 brca2 mrna seq alys
+2020~0139U~  ~20200101~L~00000.00~Neuro austm meas 6 c metablt
+2020~0140U~  ~20200101~L~00000.00~Nfct ds fungi dna 15 trgt
+2020~0141U~  ~20200101~L~00000.00~Nfct ds bact&fng gram pos
+2020~0142U~  ~20200101~L~00000.00~Nfct ds bact&fng gram neg
+2020~0143U~  ~20200101~L~00000.00~Drug assay 120+ rx/metablt
+2020~0144U~  ~20200101~L~00000.00~Drug assay 160+ rx/metablt
+2020~0145U~  ~20200101~L~00000.00~Drug assay 65+ rx/metablt
+2020~0146U~  ~20200101~L~00000.00~Drug assay 80+ rx/metablt
+2020~0147U~  ~20200101~L~00000.00~Drug assay 85+ rx/metablt
+2020~0148U~  ~20200101~L~00000.00~Drug assay 100+ rx/metablt
+2020~0149U~  ~20200101~L~00000.00~Drug assay 60+ rx/metablt
+2020~0150U~  ~20200101~L~00000.00~Drug assay 120+ rx/metablt
+2020~0151U~  ~20200101~L~00000.00~Nfct bct/vir resp nfctj 33
+2020~0152U~  ~20200101~L~00000.00~Nfct bct fng prst dna >1000
+2020~0153U~  ~20200101~L~00000.00~Onc breast mrna 101 genes
+2020~0154U~  ~20200101~L~00000.00~Onc urthl ca rna fgfr3 gene
+2020~0155U~  ~20200101~L~00000.00~Onc brst ca dna pik3ca gene
+2020~0156U~  ~20200101~L~00000.00~Copy number sequence alys
+2020~0157U~  ~20200101~L~00000.00~Apc mrna seq alys
+2020~0158U~  ~20200101~L~00000.00~Mlh1 mrna seq alys
+2020~0159U~  ~20200101~L~00000.00~Msh2 mrna seq alys
+2020~0160U~  ~20200101~L~00000.00~Msh6 mrna seq alys
+2020~0161U~  ~20200101~L~00000.00~Pms2 mrna seq alys
+2020~0162U~  ~20200101~L~00000.00~Hered colon ca trgt mrna pnl
+2020~0163U~  ~20200101~L~00000.00~Onc clrct scr 3 prtn alg
+2020~0164U~  ~20200101~L~00000.00~Gi ibs ia anti-cdtb&vinculin
+2020~0165U~  ~20200101~L~00000.00~Peanut allg asmt epi
+2020~0166U~  ~20200101~L~00000.00~Liver ds 10 biochem asy srm
+2020~0167U~  ~20200101~L~00000.00~Chornc gonadotropin hcg ia
+2020~0168U~  ~20200101~L~00000.00~Ftl aneuploidy dna seq alys
+2020~0169U~  ~20200101~L~00000.00~Nudt15&tpmt gene com vrnt
+2020~0170U~  ~20200101~L~00000.00~Neuro asd rna next gen seq
+2020~0171U~  ~20200101~L~00000.00~Trgt gen seq alys pnl dna 23
+2020~0172U~  ~20200101~L~00000.00~Onc sld tum alys brca1 brca2
+2020~0173U~  ~20200101~L~00000.00~Psyc gen alys panel 14 genes
+2020~0174U~  ~20200101~L~00000.00~Onc solid tumor 30 prtn trgt
+2020~0175U~  ~20200101~L~00000.00~Psyc gen alys panel 15 genes
+2020~0176U~  ~20200101~L~00000.00~Cdtb&vinculin igg antb ia
+2020~0177U~  ~20200101~L~00000.00~Onc brst ca dna pik3ca 11
+2020~0178U~  ~20200101~L~00000.00~Peanut allg asmt epi clin rx
+2020~0179U~  ~20200101~L~00000.00~Onc nonsm cll lng ca alys 23
+2020~0180U~  ~20200101~L~00000.00~Abo gnotyp abo 7 exons
+2020~0181U~  ~20200101~L~00000.00~Co gnotyp aqp1 exon 1
+2020~0182U~  ~20200101~L~00000.00~Crom gnotyp cd55 exons 1-10
+2020~0183U~  ~20200101~L~00000.00~Di gnotyp slc4a1 exon 19
+2020~0184U~  ~20200101~L~00000.00~Do gnotyp art4 exon 2
+2020~0185U~  ~20200101~L~00000.00~Fut1 gnotyp fut1 exon 4
+2020~0186U~  ~20200101~L~00000.00~Fut2 gnotyp fut2 exon 2
+2020~0187U~  ~20200101~L~00000.00~Fy gnotyp ackr1 exons 1-2
+2020~0188U~  ~20200101~L~00000.00~Ge gnotyp gypc exons 1-4
+2020~0189U~  ~20200101~L~00000.00~Gypa gnotyp ntrns 1 5 exon 2
+2020~0190U~  ~20200101~L~00000.00~Gypb gnotyp ntrns 1 5 seux 3
+2020~0191U~  ~20200101~L~00000.00~In gnotyp cd44 exons 2 3 6
+2020~0192U~  ~20200101~L~00000.00~Jk gnotyp slc14a1 exon 9
+2020~0193U~  ~20200101~L~00000.00~Jr gnotyp abcg2 exons 2-26
+2020~0194U~  ~20200101~L~00000.00~Kel gnotyp kel exon 8
+2020~0195U~  ~20200101~L~00000.00~Klf1 targeted sequencing
+2020~0196U~  ~20200101~L~00000.00~Lu gnotyp bcam exon 3
+2020~0197U~  ~20200101~L~00000.00~Lw gnotyp icam4 exon 1
+2020~0198U~  ~20200101~L~00000.00~Rhd&rhce gntyp rhd1-10&rhce5
+2020~0199U~  ~20200101~L~00000.00~Sc gnotyp ermap exons 4 12
+2020~0200U~  ~20200101~L~00000.00~Xk gnotyp xk exons 1-3
+2020~0201U~  ~20200101~L~00000.00~Yt gnotyp ache exon 2
+2020~0202U~  ~20200101~L~00000.00~Nfct ds 22 trgt sars-cov-2
+2020~36415~  ~20200101~N~00003.00~Routine venipuncture
+2020~78267~  ~20200101~N~00011.06~Breath tst attain/anal c-14
+2020~78268~  ~20200101~N~00094.41~Breath test analysis c-14
+2020~80047~  ~20200101~N~00013.73~Metabolic panel ionized ca
+2020~80047~QW~20200101~N~00013.73~Metabolic panel ionized ca
+2020~80048~  ~20200101~N~00008.46~Metabolic panel total ca
+2020~80048~QW~20200101~N~00008.46~Metabolic panel total ca
+2020~80051~  ~20200101~N~00007.01~Electrolyte panel
+2020~80051~QW~20200101~N~00007.01~Electrolyte panel
+2020~80053~  ~20200101~N~00010.56~Comprehen metabolic panel
+2020~80053~QW~20200101~N~00010.56~Comprehen metabolic panel
+2020~80055~  ~20200101~N~00047.81~Obstetric panel
+2020~80061~  ~20200101~N~00013.39~Lipid panel
+2020~80061~QW~20200101~N~00013.39~Lipid panel
+2020~80069~  ~20200101~N~00008.68~Renal function panel
+2020~80069~QW~20200101~N~00008.68~Renal function panel
+2020~80074~  ~20200101~N~00047.63~Acute hepatitis panel
+2020~80076~  ~20200101~N~00008.17~Hepatic function panel
+2020~80081~  ~20200101~N~00074.86~Obstetric panel
+2020~80145~  ~20200101~N~00038.57~Drug assay adalimumab
+2020~80150~  ~20200101~N~00015.08~Assay of amikacin
+2020~80155~  ~20200101~N~00038.57~Drug assay caffeine
+2020~80156~  ~20200101~N~00014.57~Assay carbamazepine total
+2020~80157~  ~20200101~N~00013.25~Assay carbamazepine free
+2020~80158~  ~20200101~N~00018.05~Drug assay cyclosporine
+2020~80159~  ~20200101~N~00020.15~Drug assay clozapine
+2020~80162~  ~20200101~N~00013.28~Assay of digoxin total
+2020~80163~  ~20200101~N~00013.28~Assay of digoxin free
+2020~80164~  ~20200101~N~00013.54~Assay dipropylacetic acd tot
+2020~80165~  ~20200101~N~00013.54~Dipropylacetic acid free
+2020~80168~  ~20200101~N~00016.34~Assay of ethosuximide
+2020~80169~  ~20200101~N~00013.73~Drug assay everolimus
+2020~80170~  ~20200101~N~00016.38~Assay of gentamicin
+2020~80171~  ~20200101~N~00021.67~Drug screen quant gabapentin
+2020~80173~  ~20200101~N~00015.78~Assay of haloperidol
+2020~80175~  ~20200101~N~00013.25~Drug screen quan lamotrigine
+2020~80176~  ~20200101~N~00014.69~Assay of lidocaine
+2020~80177~  ~20200101~N~00013.25~Drug scrn quan levetiracetam
+2020~80178~  ~20200101~N~00006.61~Assay of lithium
+2020~80178~QW~20200101~N~00006.61~Assay of lithium
+2020~80180~  ~20200101~N~00018.05~Drug scrn quan mycophenolate
+2020~80183~  ~20200101~N~00013.25~Drug scrn quant oxcarbazepin
+2020~80184~  ~20200101~N~00015.30~Assay of phenobarbital
+2020~80185~  ~20200101~N~00013.25~Assay of phenytoin total
+2020~80186~  ~20200101~N~00013.76~Assay of phenytoin free
+2020~80187~  ~20200101~N~00027.11~Drug assay posaconazole
+2020~80188~  ~20200101~N~00016.59~Assay of primidone
+2020~80190~  ~20200101~N~00060.00~Assay of procainamide
+2020~80192~  ~20200101~N~00016.75~Assay of procainamide
+2020~80194~  ~20200101~N~00014.60~Assay of quinidine
+2020~80195~  ~20200101~N~00013.73~Assay of sirolimus
+2020~80197~  ~20200101~N~00013.73~Assay of tacrolimus
+2020~80198~  ~20200101~N~00014.14~Assay of theophylline
+2020~80199~  ~20200101~N~00027.11~Drug screen quant tiagabine
+2020~80200~  ~20200101~N~00016.13~Assay of tobramycin
+2020~80201~  ~20200101~N~00011.92~Assay of topiramate
+2020~80202~  ~20200101~N~00013.54~Assay of vancomycin
+2020~80203~  ~20200101~N~00013.25~Drug screen quant zonisamide
+2020~80230~  ~20200101~N~00038.57~Drug assay infliximab
+2020~80235~  ~20200101~N~00027.11~Drug assay lacosamide
+2020~80280~  ~20200101~N~00038.57~Drug assay vedolizumab
+2020~80285~  ~20200101~N~00027.11~Drug assay voriconazole
+2020~80299~  ~20200101~N~00018.64~Quantitative assay drug
+2020~80305~  ~20200101~N~00012.60~Drug test prsmv dir opt obs
+2020~80305~QW~20200101~N~00012.60~Drug test prsmv dir opt obs
+2020~80306~  ~20200101~N~00017.14~Drug test prsmv instrmnt
+2020~80307~  ~20200101~N~00062.14~Drug test prsmv chem anlyzr
+2020~80400~  ~20200101~N~00032.62~Acth stimulation panel
+2020~80402~  ~20200101~N~00086.96~Acth stimulation panel
+2020~80406~  ~20200101~N~00078.26~Acth stimulation panel
+2020~80408~  ~20200101~N~00125.50~Aldosterone suppression eval
+2020~80410~  ~20200101~N~00080.37~Calcitonin stimul panel
+2020~80412~  ~20200101~N~00801.62~Crh stimulation panel
+2020~80414~  ~20200101~N~00051.64~Testosterone response
+2020~80415~  ~20200101~N~00055.89~Estradiol response panel
+2020~80416~  ~20200101~N~00209.32~Renin stimulation panel
+2020~80417~  ~20200101~N~00043.99~Renin stimulation panel
+2020~80418~  ~20200101~N~00579.48~Pituitary evaluation panel
+2020~80420~  ~20200101~N~00161.88~Dexamethasone panel
+2020~80422~  ~20200101~N~00046.07~Glucagon tolerance panel
+2020~80424~  ~20200101~N~00050.50~Glucagon tolerance panel
+2020~80426~  ~20200101~N~00148.41~Gonadotropin hormone panel
+2020~80428~  ~20200101~N~00066.70~Growth hormone panel
+2020~80430~  ~20200101~N~00129.33~Growth hormone panel
+2020~80432~  ~20200101~N~00165.61~Insulin suppression panel
+2020~80434~  ~20200101~N~00285.03~Insulin tolerance panel
+2020~80435~  ~20200101~N~00103.00~Insulin tolerance panel
+2020~80436~  ~20200101~N~00091.16~Metyrapone panel
+2020~80438~  ~20200101~N~00050.41~Trh stimulation panel
+2020~80439~  ~20200101~N~00067.21~Trh stimulation panel
+2020~81000~  ~20200101~N~00004.02~Urinalysis nonauto w/scope
+2020~81001~  ~20200101~N~00003.17~Urinalysis auto w/scope
+2020~81002~  ~20200101~N~00003.48~Urinalysis nonauto w/o scope
+2020~81003~  ~20200101~N~00002.25~Urinalysis auto w/o scope
+2020~81003~QW~20200101~N~00002.25~Urinalysis auto w/o scope
+2020~81005~  ~20200101~N~00002.17~Urinalysis
+2020~81007~  ~20200101~N~00029.98~Urine screen for bacteria
+2020~81007~QW~20200101~N~00029.98~Urine screen for bacteria
+2020~81015~  ~20200101~N~00003.05~Microscopic exam of urine
+2020~81020~  ~20200101~N~00004.70~Urinalysis glass test
+2020~81025~  ~20200101~N~00008.61~Urine pregnancy test
+2020~81050~  ~20200101~N~00003.64~Urinalysis volume measure
+2020~81105~  ~20200101~N~00122.22~Hpa-1 genotyping
+2020~81106~  ~20200101~N~00122.22~Hpa-2 genotyping
+2020~81107~  ~20200101~N~00122.22~Hpa-3 genotyping
+2020~81108~  ~20200101~N~00122.22~Hpa-4 genotyping
+2020~81109~  ~20200101~N~00122.22~Hpa-5 genotyping
+2020~81110~  ~20200101~N~00122.22~Hpa-6 genotyping
+2020~81111~  ~20200101~N~00122.22~Hpa-9 genotyping
+2020~81112~  ~20200101~N~00122.22~Hpa-15 genotyping
+2020~81120~  ~20200101~N~00193.25~Idh1 common variants
+2020~81121~  ~20200101~N~00295.79~Idh2 common variants
+2020~81161~  ~20200101~N~00279.00~Dmd dup/delet analysis
+2020~81162~  ~20200101~N~01824.88~Brca1&2 gen full seq dup/del
+2020~81163~  ~20200101~N~00468.00~Brca1&2 gene full seq alys
+2020~81164~  ~20200101~N~00584.23~Brca1&2 gen ful dup/del alys
+2020~81165~  ~20200101~N~00282.88~Brca1 gene full seq alys
+2020~81166~  ~20200101~N~00301.35~Brca1 gene full dup/del alys
+2020~81167~  ~20200101~N~00282.88~Brca2 gene full dup/del alys
+2020~81170~  ~20200101~N~00300.00~Abl1 gene
+2020~81171~  ~20200101~N~00137.00~Aff2 gene detc abnor alleles
+2020~81172~  ~20200101~N~00274.83~Aff2 gene charac alleles
+2020~81173~  ~20200101~N~00301.35~Ar gene full gene sequence
+2020~81174~  ~20200101~N~00185.20~Ar gene known famil variant
+2020~81175~  ~20200101~N~00676.50~Asxl1 full gene sequence
+2020~81176~  ~20200101~N~00241.90~Asxl1 gene target seq alys
+2020~81177~  ~20200101~N~00137.00~Atn1 gene detc abnor alleles
+2020~81178~  ~20200101~N~00137.00~Atxn1 gene detc abnor allele
+2020~81179~  ~20200101~N~00137.00~Atxn2 gene detc abnor allele
+2020~81180~  ~20200101~N~00137.00~Atxn3 gene detc abnor allele
+2020~81181~  ~20200101~N~00137.00~Atxn7 gene detc abnor allele
+2020~81182~  ~20200101~N~00137.00~Atxn8os gen detc abnor allel
+2020~81183~  ~20200101~N~00137.00~Atxn10 gene detc abnor allel
+2020~81184~  ~20200101~N~00137.00~Cacna1a gen detc abnor allel
+2020~81185~  ~20200101~N~00846.27~Cacna1a gene full gene seq
+2020~81186~  ~20200101~N~00185.20~Cacna1a gen known famil vrnt
+2020~81187~  ~20200101~N~00137.00~Cnbp gene detc abnor allele
+2020~81188~  ~20200101~N~00137.00~Cstb gene detc abnor allele
+2020~81189~  ~20200101~N~00274.83~Cstb gene full gene sequence
+2020~81190~  ~20200101~N~00185.20~Cstb gene known famil vrnt
+2020~81200~  ~20200101~N~00047.25~Aspa gene
+2020~81201~  ~20200101~N~00780.00~Apc gene full sequence
+2020~81202~  ~20200101~N~00280.00~Apc gene known fam variants
+2020~81203~  ~20200101~N~00200.00~Apc gene dup/delet variants
+2020~81204~  ~20200101~N~00137.00~Ar gene charac alleles
+2020~81205~  ~20200101~N~00094.99~Bckdhb gene
+2020~81206~  ~20200101~N~00163.96~Bcr/abl1 gene major bp
+2020~81207~  ~20200101~N~00144.84~Bcr/abl1 gene minor bp
+2020~81208~  ~20200101~N~00214.62~Bcr/abl1 gene other bp
+2020~81209~  ~20200101~N~00039.31~Blm gene
+2020~81210~  ~20200101~N~00175.40~Braf gene
+2020~81212~  ~20200101~N~00440.00~Brca1&2 185&5385&6174 vrnt
+2020~81215~  ~20200101~N~00375.25~Brca1 gene known famil vrnt
+2020~81216~  ~20200101~N~00185.12~Brca2 gene full seq alys
+2020~81217~  ~20200101~N~00375.25~Brca2 gene known famil vrnt
+2020~81218~  ~20200101~N~00241.90~Cebpa gene full sequence
+2020~81219~  ~20200101~N~00121.63~Calr gene com variants
+2020~81220~  ~20200101~N~00556.60~Cftr gene com variants
+2020~81221~  ~20200101~N~00097.22~Cftr gene known fam variants
+2020~81222~  ~20200101~N~00435.07~Cftr gene dup/delet variants
+2020~81223~  ~20200101~N~00499.00~Cftr gene full sequence
+2020~81224~  ~20200101~N~00168.75~Cftr gene intron poly t
+2020~81225~  ~20200101~N~00291.36~Cyp2c19 gene com variants
+2020~81226~  ~20200101~N~00450.91~Cyp2d6 gene com variants
+2020~81227~  ~20200101~N~00174.81~Cyp2c9 gene com variants
+2020~81228~  ~20200101~N~00900.00~Cytogen micrarray copy nmbr
+2020~81229~  ~20200101~N~01160.00~Cytogen m array copy no&snp
+2020~81230~  ~20200101~N~00174.81~Cyp3a4 gene common variants
+2020~81231~  ~20200101~N~00174.81~Cyp3a5 gene common variants
+2020~81232~  ~20200101~N~00174.81~Dpyd gene common variants
+2020~81233~  ~20200101~N~00175.40~Btk gene common variants
+2020~81234~  ~20200101~N~00137.00~Dmpk gene detc abnor allele
+2020~81235~  ~20200101~N~00324.58~Egfr gene com variants
+2020~81236~  ~20200101~N~00282.88~Ezh2 gene full gene sequence
+2020~81237~  ~20200101~N~00175.40~Ezh2 gene common variants
+2020~81238~  ~20200101~N~00600.00~F9 full gene sequence
+2020~81239~  ~20200101~N~00274.83~Dmpk gene charac alleles
+2020~81240~  ~20200101~N~00065.69~F2 gene
+2020~81241~  ~20200101~N~00073.37~F5 gene
+2020~81242~  ~20200101~N~00036.62~Fancc gene
+2020~81243~  ~20200101~N~00057.04~Fmr1 gene detection
+2020~81244~  ~20200101~N~00044.89~Fmr1 gene charac alleles
+2020~81245~  ~20200101~N~00165.51~Flt3 gene
+2020~81246~  ~20200101~N~00083.00~Flt3 gene analysis
+2020~81247~  ~20200101~N~00174.81~G6pd gene alys cmn variant
+2020~81248~  ~20200101~N~00375.25~G6pd known familial variant
+2020~81249~  ~20200101~N~00600.00~G6pd full gene sequence
+2020~81250~  ~20200101~N~00058.49~G6pc gene
+2020~81251~  ~20200101~N~00047.25~Gba gene
+2020~81252~  ~20200101~N~00101.12~Gjb2 gene full sequence
+2020~81253~  ~20200101~N~00061.52~Gjb2 gene known fam variants
+2020~81254~  ~20200101~N~00035.00~Gjb6 gene com variants
+2020~81255~  ~20200101~N~00051.45~Hexa gene
+2020~81256~  ~20200101~N~00065.36~Hfe gene
+2020~81257~  ~20200101~N~00102.26~Hba1/hba2 gene
+2020~81258~  ~20200101~N~00375.25~Hba1/hba2 gene fam vrnt
+2020~81259~  ~20200101~N~00600.00~Hba1/hba2 full gene sequence
+2020~81260~  ~20200101~N~00039.31~Ikbkap gene
+2020~81261~  ~20200101~N~00197.99~Igh gene rearrange amp meth
+2020~81262~  ~20200101~N~00068.55~Igh gene rearrang dir probe
+2020~81263~  ~20200101~N~00294.52~Igh vari regional mutation
+2020~81264~  ~20200101~N~00172.73~Igk rearrangeabn clonal pop
+2020~81265~  ~20200101~N~00233.07~Str markers specimen anal
+2020~81266~  ~20200101~N~00304.81~Str markers spec anal addl
+2020~81267~  ~20200101~N~00207.46~Chimerism anal no cell selec
+2020~81268~  ~20200101~N~00260.79~Chimerism anal w/cell select
+2020~81269~  ~20200101~N~00202.40~Hba1/hba2 gene dup/del vrnts
+2020~81270~  ~20200101~N~00091.66~Jak2 gene
+2020~81271~  ~20200101~N~00137.00~Htt gene detc abnor alleles
+2020~81272~  ~20200101~N~00329.51~Kit gene targeted seq analys
+2020~81273~  ~20200101~N~00124.87~Kit gene analys d816 variant
+2020~81274~  ~20200101~N~00274.83~Htt gene charac alleles
+2020~81275~  ~20200101~N~00193.25~Kras gene variants exon 2
+2020~81276~  ~20200101~N~00193.25~Kras gene addl variants
+2020~81277~  ~20200101~N~01160.00~Cytogenomic neo microra alys
+2020~81283~  ~20200101~N~00073.37~Ifnl3 gene
+2020~81284~  ~20200101~N~00137.00~Fxn gene detc abnor alleles
+2020~81285~  ~20200101~N~00274.83~Fxn gene charac alleles
+2020~81286~  ~20200101~N~00274.83~Fxn gene full gene sequence
+2020~81287~  ~20200101~N~00124.64~Mgmt gene prmtr mthyltn alys
+2020~81288~  ~20200101~N~00192.32~Mlh1 gene
+2020~81289~  ~20200101~N~00185.20~Fxn gene known famil variant
+2020~81290~  ~20200101~N~00039.31~Mcoln1 gene
+2020~81291~  ~20200101~N~00065.34~Mthfr gene
+2020~81292~  ~20200101~N~00675.40~Mlh1 gene full seq
+2020~81293~  ~20200101~N~00331.00~Mlh1 gene known variants
+2020~81294~  ~20200101~N~00202.40~Mlh1 gene dup/delete variant
+2020~81295~  ~20200101~N~00381.70~Msh2 gene full seq
+2020~81296~  ~20200101~N~00337.73~Msh2 gene known variants
+2020~81297~  ~20200101~N~00213.30~Msh2 gene dup/delete variant
+2020~81298~  ~20200101~N~00641.85~Msh6 gene full seq
+2020~81299~  ~20200101~N~00308.00~Msh6 gene known variants
+2020~81300~  ~20200101~N~00238.00~Msh6 gene dup/delete variant
+2020~81301~  ~20200101~N~00348.56~Microsatellite instability
+2020~81302~  ~20200101~N~00527.87~Mecp2 gene full seq
+2020~81303~  ~20200101~N~00120.00~Mecp2 gene known variant
+2020~81304~  ~20200101~N~00150.00~Mecp2 gene dup/delet variant
+2020~81305~  ~20200101~N~00175.40~Myd88 gene p.leu265pro vrnt
+2020~81306~  ~20200101~N~00291.36~Nudt15 gene common variants
+2020~81307~  ~20200101~N~00282.88~Palb2 gene full gene seq
+2020~81308~  ~20200101~N~00301.35~Palb2 gene known famil vrnt
+2020~81309~  ~20200101~N~00274.83~Pik3ca gene trgt seq alys
+2020~81310~  ~20200101~N~00246.52~Npm1 gene
+2020~81311~  ~20200101~N~00295.79~Nras gene variants exon 2&3
+2020~81312~  ~20200101~N~00137.00~Pabpn1 gene detc abnor allel
+2020~81313~  ~20200101~N~00255.05~Pca3/klk3 antigen
+2020~81314~  ~20200101~N~00329.51~Pdgfra gene
+2020~81315~  ~20200101~N~00207.31~Pml/raralpha com breakpoints
+2020~81316~  ~20200101~N~00207.31~Pml/raralpha 1 breakpoint
+2020~81317~  ~20200101~N~00676.50~Pms2 gene full seq analysis
+2020~81318~  ~20200101~N~00331.00~Pms2 known familial variants
+2020~81319~  ~20200101~N~00203.50~Pms2 gene dup/delet variants
+2020~81320~  ~20200101~N~00291.36~Plcg2 gene common variants
+2020~81321~  ~20200101~N~00600.00~Pten gene full sequence
+2020~81322~  ~20200101~N~00046.60~Pten gene known fam variant
+2020~81323~  ~20200101~N~00300.00~Pten gene dup/delet variant
+2020~81324~  ~20200101~N~00758.36~Pmp22 gene dup/delet
+2020~81325~  ~20200101~N~00769.58~Pmp22 gene full sequence
+2020~81326~  ~20200101~N~00046.60~Pmp22 gene known fam variant
+2020~81327~  ~20200101~N~00192.00~Sept9 gen prmtr mthyltn alys
+2020~81328~  ~20200101~N~00174.81~Slco1b1 gene com variants
+2020~81329~  ~20200101~N~00137.00~Smn1 gene dos/deletion alys
+2020~81330~  ~20200101~N~00047.00~Smpd1 gene common variants
+2020~81331~  ~20200101~N~00051.07~Snrpn/ube3a gene
+2020~81332~  ~20200101~N~00043.65~Serpina1 gene
+2020~81333~  ~20200101~N~00137.00~Tgfbi gene common variants
+2020~81334~  ~20200101~N~00329.51~Runx1 gene targeted seq alys
+2020~81335~  ~20200101~N~00174.81~Tpmt gene com variants
+2020~81336~  ~20200101~N~00301.35~Smn1 gene full gene sequence
+2020~81337~  ~20200101~N~00185.20~Smn1 gen nown famil seq vrnt
+2020~81340~  ~20200101~N~00208.92~Trb@ gene rearrange amplify
+2020~81341~  ~20200101~N~00049.59~Trb@ gene rearrange dirprobe
+2020~81342~  ~20200101~N~00201.50~Trg gene rearrangement anal
+2020~81343~  ~20200101~N~00137.00~Ppp2r2b gen detc abnor allel
+2020~81344~  ~20200101~N~00137.00~Tbp gene detc abnor alleles
+2020~81345~  ~20200101~N~00185.20~Tert gene targeted seq alys
+2020~81346~  ~20200101~N~00174.81~Tyms gene com variants
+2020~81350~  ~20200101~N~00234.00~Ugt1a1 gene common variants
+2020~81355~  ~20200101~N~00088.20~Vkorc1 gene
+2020~81361~  ~20200101~N~00174.81~Hbb gene com variants
+2020~81362~  ~20200101~N~00375.25~Hbb gene known fam variant
+2020~81363~  ~20200101~N~00202.40~Hbb gene dup/del variants
+2020~81364~  ~20200101~N~00324.58~Hbb full gene sequence
+2020~81370~  ~20200101~N~00402.12~Hla i & ii typing lr
+2020~81371~  ~20200101~N~00404.52~Hla i & ii type verify lr
+2020~81372~  ~20200101~N~00403.59~Hla i typing complete lr
+2020~81373~  ~20200101~N~00127.43~Hla i typing 1 locus lr
+2020~81374~  ~20200101~N~00074.33~Hla i typing 1 antigen lr
+2020~81375~  ~20200101~N~00220.74~Hla ii typing ag equiv lr
+2020~81376~  ~20200101~N~00122.22~Hla ii typing 1 locus lr
+2020~81377~  ~20200101~N~00094.74~Hla ii type 1 ag equiv lr
+2020~81378~  ~20200101~N~00345.57~Hla i & ii typing hr
+2020~81379~  ~20200101~N~00335.38~Hla i typing complete hr
+2020~81380~  ~20200101~N~00177.25~Hla i typing 1 locus hr
+2020~81381~  ~20200101~N~00169.90~Hla i typing 1 allele hr
+2020~81382~  ~20200101~N~00123.68~Hla ii typing 1 loc hr
+2020~81383~  ~20200101~N~00109.13~Hla ii typing 1 allele hr
+2020~81400~  ~20200101~N~00063.96~Mopath procedure level 1
+2020~81401~  ~20200101~N~00137.00~Mopath procedure level 2
+2020~81402~  ~20200101~N~00150.33~Mopath procedure level 3
+2020~81403~  ~20200101~N~00185.20~Mopath procedure level 4
+2020~81404~  ~20200101~N~00274.83~Mopath procedure level 5
+2020~81405~  ~20200101~N~00301.35~Mopath procedure level 6
+2020~81406~  ~20200101~N~00282.88~Mopath procedure level 7
+2020~81407~  ~20200101~N~00846.27~Mopath procedure level 8
+2020~81408~  ~20200101~N~02000.00~Mopath procedure level 9
+2020~81410~  ~20200101~N~00504.00~Aortic dysfunction/dilation
+2020~81411~  ~20200101~N~01350.19~Aortic dysfunction/dilation
+2020~81412~  ~20200101~N~02448.56~Ashkenazi jewish assoc dis
+2020~81413~  ~20200101~N~00584.90~Car ion chnnlpath inc 10 gns
+2020~81414~  ~20200101~N~00584.90~Car ion chnnlpath inc 2 gns
+2020~81415~  ~20200101~N~04780.00~Exome sequence analysis
+2020~81416~  ~20200101~N~12000.00~Exome sequence analysis
+2020~81417~  ~20200101~N~00320.00~Exome re-evaluation
+2020~81420~  ~20200101~N~00759.05~Fetal chrmoml aneuploidy
+2020~81422~  ~20200101~N~00759.05~Fetal chrmoml microdeltj
+2020~81425~  ~20200101~N~05031.20~Genome sequence analysis
+2020~81426~  ~20200101~N~02709.95~Genome sequence analysis
+2020~81427~  ~20200101~N~02337.65~Genome re-evaluation
+2020~81430~  ~20200101~N~01625.00~Hearing loss sequence analys
+2020~81431~  ~20200101~N~00679.57~Hearing loss dup/del analys
+2020~81432~  ~20200101~N~00679.05~Hrdtry brst ca-rlatd dsordrs
+2020~81433~  ~20200101~N~00438.93~Hrdtry brst ca-rlatd dsordrs
+2020~81434~  ~20200101~N~00597.91~Hereditary retinal disorders
+2020~81435~  ~20200101~N~00584.90~Hereditary colon ca dsordrs
+2020~81436~  ~20200101~N~00584.90~Hereditary colon ca dsordrs
+2020~81437~  ~20200101~N~00438.93~Heredtry nurondcrn tum dsrdr
+2020~81438~  ~20200101~N~00438.93~Heredtry nurondcrn tum dsrdr
+2020~81439~  ~20200101~N~00584.90~Hrdtry cardmypy gene panel
+2020~81440~  ~20200101~N~03324.00~Mitochondrial gene
+2020~81442~  ~20200101~N~02143.60~Noonan spectrum disorders
+2020~81443~  ~20200101~N~02448.56~Genetic tstg severe inh cond
+2020~81445~  ~20200101~N~00597.91~Targeted genomic seq analys
+2020~81448~  ~20200101~N~00584.90~Hrdtry perph neurphy panel
+2020~81450~  ~20200101~N~00759.53~Targeted genomic seq analys
+2020~81455~  ~20200101~N~02919.60~Targeted genomic seq analys
+2020~81460~  ~20200101~N~01287.00~Whole mitochondrial genome
+2020~81465~  ~20200101~N~00936.00~Whole mitochondrial genome
+2020~81470~  ~20200101~N~00914.00~X-linked intellectual dblt
+2020~81471~  ~20200101~N~00914.00~X-linked intellectual dblt
+2020~81490~  ~20200101~N~00840.65~Autoimmune rheumatoid arthr
+2020~81493~  ~20200101~N~01050.00~Cor artery disease mrna
+2020~81500~  ~20200101~N~00260.50~Onco (ovar) two proteins
+2020~81503~  ~20200101~N~00897.00~Onco (ovar) five proteins
+2020~81504~  ~20200101~N~00520.00~Oncology tissue of origin
+2020~81506~  ~20200101~N~00068.92~Endo assay seven anal
+2020~81507~  ~20200101~N~00795.00~Fetal aneuploidy trisom risk
+2020~81508~  ~20200101~N~00054.30~Ftl cgen abnor two proteins
+2020~81509~  ~20200101~N~01487.37~Ftl cgen abnor 3 proteins
+2020~81510~  ~20200101~N~00055.54~Ftl cgen abnor three anal
+2020~81511~  ~20200101~N~00153.50~Ftl cgen abnor four anal
+2020~81512~  ~20200101~N~00069.52~Ftl cgen abnor five anal
+2020~81518~  ~20200101~N~03873.00~Onc brst mrna 11 genes
+2020~81519~  ~20200101~N~03873.00~Oncology breast mrna
+2020~81520~  ~20200101~N~02510.21~Onc breast mrna 58 genes
+2020~81521~  ~20200101~N~03873.00~Onc breast mrna 70 genes
+2020~81522~  ~20200101~N~03873.00~Onc breast mrna 12 genes
+2020~81525~  ~20200101~N~03116.00~Oncology colon mrna
+2020~81528~  ~20200101~N~00508.87~Oncology colorectal scr
+2020~81535~  ~20200101~N~00579.46~Oncology gynecologic
+2020~81536~  ~20200101~N~00177.56~Oncology gynecologic
+2020~81538~  ~20200101~N~02871.00~Oncology lung
+2020~81539~  ~20200101~N~00760.00~Oncology prostate prob score
+2020~81540~  ~20200101~N~03750.00~Oncology tum unknown origin
+2020~81541~  ~20200101~N~03873.00~Onc prostate mrna 46 genes
+2020~81542~  ~20200101~L~00000.00~Onc prostate mrna 22 cnt gen
+2020~81545~  ~20200101~N~03600.00~Oncology thyroid
+2020~81551~  ~20200101~N~02030.00~Onc prostate 3 genes
+2020~81595~  ~20200101~N~03240.00~Cardiology hrt trnspl mrna
+2020~81596~  ~20200101~N~00072.19~Nfct ds chrnc hcv 6 assays
+2020~82009~  ~20200101~N~00004.52~Test for acetone/ketones
+2020~82010~  ~20200101~N~00008.17~Acetone assay
+2020~82010~QW~20200101~N~00008.17~Acetone assay
+2020~82013~  ~20200101~N~00012.29~Acetylcholinesterase assay
+2020~82016~  ~20200101~N~00016.49~Acylcarnitines qual
+2020~82017~  ~20200101~N~00016.87~Acylcarnitines quant
+2020~82024~  ~20200101~N~00038.62~Assay of acth
+2020~82030~  ~20200101~N~00025.80~Assay of adp & amp
+2020~82040~  ~20200101~N~00004.95~Assay of serum albumin
+2020~82040~QW~20200101~N~00004.95~Assay of serum albumin
+2020~82042~  ~20200101~N~00007.78~Other source albumin quan ea
+2020~82042~QW~20200101~N~00007.78~Other source albumin quan ea
+2020~82043~  ~20200101~N~00005.78~Ur albumin quantitative
+2020~82043~QW~20200101~N~00005.78~Ur albumin quantitative
+2020~82044~  ~20200101~N~00006.23~Ur albumin semiquantitative
+2020~82044~QW~20200101~N~00006.23~Ur albumin semiquantitative
+2020~82045~  ~20200101~N~00033.94~Albumin ischemia modified
+2020~82075~  ~20200101~N~00030.00~Assay of breath ethanol
+2020~82085~  ~20200101~N~00009.71~Assay of aldolase
+2020~82088~  ~20200101~N~00040.75~Assay of aldosterone
+2020~82103~  ~20200101~N~00013.44~Alpha-1-antitrypsin total
+2020~82104~  ~20200101~N~00014.46~Alpha-1-antitrypsin pheno
+2020~82105~  ~20200101~N~00016.77~Alpha-fetoprotein serum
+2020~82106~  ~20200101~N~00017.00~Alpha-fetoprotein amniotic
+2020~82107~  ~20200101~N~00064.41~Alpha-fetoprotein l3
+2020~82108~  ~20200101~N~00025.48~Assay of aluminum
+2020~82120~  ~20200101~N~00005.99~Amines vaginal fluid qual
+2020~82120~QW~20200101~N~00005.99~Amines vaginal fluid qual
+2020~82127~  ~20200101~N~00014.18~Amino acid single qual
+2020~82128~  ~20200101~N~00013.87~Amino acids mult qual
+2020~82131~  ~20200101~N~00022.98~Amino acids single quant
+2020~82135~  ~20200101~N~00016.45~Assay aminolevulinic acid
+2020~82136~  ~20200101~N~00019.61~Amino acids quant 2-5
+2020~82139~  ~20200101~N~00016.87~Amino acids quan 6 or more
+2020~82140~  ~20200101~N~00014.57~Assay of ammonia
+2020~82143~  ~20200101~N~00009.35~Amniotic fluid scan
+2020~82150~  ~20200101~N~00006.48~Assay of amylase
+2020~82150~QW~20200101~N~00006.48~Assay of amylase
+2020~82154~  ~20200101~N~00028.83~Androstanediol glucuronide
+2020~82157~  ~20200101~N~00029.28~Assay of androstenedione
+2020~82160~  ~20200101~N~00025.55~Assay of androsterone
+2020~82163~  ~20200101~N~00020.52~Assay of angiotensin ii
+2020~82164~  ~20200101~N~00014.60~Angiotensin i enzyme test
+2020~82172~  ~20200101~N~00021.09~Assay of apolipoprotein
+2020~82175~  ~20200101~N~00018.97~Assay of arsenic
+2020~82180~  ~20200101~N~00009.89~Assay of ascorbic acid
+2020~82190~  ~20200101~N~00015.90~Atomic absorption
+2020~82232~  ~20200101~N~00016.18~Assay of beta-2 protein
+2020~82239~  ~20200101~N~00017.12~Bile acids total
+2020~82240~  ~20200101~N~00026.58~Bile acids cholylglycine
+2020~82247~  ~20200101~N~00005.02~Bilirubin total
+2020~82247~QW~20200101~N~00005.02~Bilirubin total
+2020~82248~  ~20200101~N~00005.02~Bilirubin direct
+2020~82252~  ~20200101~N~00004.56~Fecal bilirubin test
+2020~82261~  ~20200101~N~00016.87~Assay of biotinidase
+2020~82270~  ~20200101~N~00004.38~Occult blood feces
+2020~82271~  ~20200101~N~00005.32~Occult blood other sources
+2020~82271~QW~20200101~N~00005.32~Occult blood other sources
+2020~82272~  ~20200101~N~00004.23~Occult bld feces 1-3 tests
+2020~82274~  ~20200101~N~00015.92~Assay test for blood fecal
+2020~82274~QW~20200101~N~00015.92~Assay test for blood fecal
+2020~82286~  ~20200101~N~00005.16~Assay of bradykinin
+2020~82300~  ~20200101~N~00023.64~Assay of cadmium
+2020~82306~  ~20200101~N~00029.60~Vitamin d 25 hydroxy
+2020~82308~  ~20200101~N~00026.79~Assay of calcitonin
+2020~82310~  ~20200101~N~00005.16~Assay of calcium
+2020~82310~QW~20200101~N~00005.16~Assay of calcium
+2020~82330~  ~20200101~N~00013.68~Assay of calcium
+2020~82330~QW~20200101~N~00013.68~Assay of calcium
+2020~82331~  ~20200101~N~00013.34~Calcium infusion test
+2020~82340~  ~20200101~N~00006.03~Assay of calcium in urine
+2020~82355~  ~20200101~N~00011.58~Calculus analysis qual
+2020~82360~  ~20200101~N~00012.87~Calculus assay quant
+2020~82365~  ~20200101~N~00012.90~Calculus spectroscopy
+2020~82370~  ~20200101~N~00012.52~X-ray assay calculus
+2020~82373~  ~20200101~N~00018.06~Assay c-d transfer measure
+2020~82374~  ~20200101~N~00004.88~Assay blood carbon dioxide
+2020~82374~QW~20200101~N~00004.88~Assay blood carbon dioxide
+2020~82375~  ~20200101~N~00012.32~Assay carboxyhb quant
+2020~82376~  ~20200101~N~00014.07~Assay carboxyhb qual
+2020~82378~  ~20200101~N~00018.96~Carcinoembryonic antigen
+2020~82379~  ~20200101~N~00016.87~Assay of carnitine
+2020~82380~  ~20200101~N~00009.22~Assay of carotene
+2020~82382~  ~20200101~N~00027.30~Assay urine catecholamines
+2020~82383~  ~20200101~N~00029.08~Assay blood catecholamines
+2020~82384~  ~20200101~N~00025.25~Assay three catecholamines
+2020~82387~  ~20200101~N~00018.06~Assay of cathepsin-d
+2020~82390~  ~20200101~N~00010.74~Assay of ceruloplasmin
+2020~82397~  ~20200101~N~00014.12~Chemiluminescent assay
+2020~82415~  ~20200101~N~00012.67~Assay of chloramphenicol
+2020~82435~  ~20200101~N~00004.60~Assay of blood chloride
+2020~82435~QW~20200101~N~00004.60~Assay of blood chloride
+2020~82436~  ~20200101~N~00005.75~Assay of urine chloride
+2020~82438~  ~20200101~N~00005.00~Assay other fluid chlorides
+2020~82441~  ~20200101~N~00006.01~Test for chlorohydrocarbons
+2020~82465~  ~20200101~N~00004.35~Assay bld/serum cholesterol
+2020~82465~QW~20200101~N~00004.35~Assay bld/serum cholesterol
+2020~82480~  ~20200101~N~00007.87~Assay serum cholinesterase
+2020~82482~  ~20200101~N~00009.81~Assay rbc cholinesterase
+2020~82485~  ~20200101~N~00020.65~Assay chondroitin sulfate
+2020~82495~  ~20200101~N~00020.28~Assay of chromium
+2020~82507~  ~20200101~N~00027.80~Assay of citrate
+2020~82523~  ~20200101~N~00018.68~Collagen crosslinks
+2020~82523~QW~20200101~N~00018.68~Collagen crosslinks
+2020~82525~  ~20200101~N~00012.41~Assay of copper
+2020~82528~  ~20200101~N~00022.52~Assay of corticosterone
+2020~82530~  ~20200101~N~00016.71~Cortisol free
+2020~82533~  ~20200101~N~00016.30~Total cortisol
+2020~82540~  ~20200101~N~00004.64~Assay of creatine
+2020~82542~  ~20200101~N~00024.09~Col chromotography qual/quan
+2020~82550~  ~20200101~N~00006.51~Assay of ck (cpk)
+2020~82550~QW~20200101~N~00006.51~Assay of ck (cpk)
+2020~82552~  ~20200101~N~00013.39~Assay of cpk in blood
+2020~82553~  ~20200101~N~00011.55~Creatine mb fraction
+2020~82554~  ~20200101~N~00011.87~Creatine isoforms
+2020~82565~  ~20200101~N~00005.12~Assay of creatinine
+2020~82565~QW~20200101~N~00005.12~Assay of creatinine
+2020~82570~  ~20200101~N~00005.18~Assay of urine creatinine
+2020~82570~QW~20200101~N~00005.18~Assay of urine creatinine
+2020~82575~  ~20200101~N~00009.46~Creatinine clearance test
+2020~82585~  ~20200101~N~00014.14~Assay of cryofibrinogen
+2020~82595~  ~20200101~N~00006.47~Assay of cryoglobulin
+2020~82600~  ~20200101~N~00019.40~Assay of cyanide
+2020~82607~  ~20200101~N~00015.08~Vitamin b-12
+2020~82608~  ~20200101~N~00014.32~B-12 binding capacity
+2020~82610~  ~20200101~N~00018.52~Cystatin c
+2020~82615~  ~20200101~N~00009.55~Test for urine cystines
+2020~82626~  ~20200101~N~00025.27~Dehydroepiandrosterone
+2020~82627~  ~20200101~N~00022.23~Dehydroepiandrosterone
+2020~82633~  ~20200101~N~00030.98~Desoxycorticosterone
+2020~82634~  ~20200101~N~00029.28~Deoxycortisol
+2020~82638~  ~20200101~N~00012.25~Assay of dibucaine number
+2020~82642~  ~20200101~N~00029.28~Dihydrotestosterone
+2020~82652~  ~20200101~N~00038.50~Vit d 1 25-dihydroxy
+2020~82656~  ~20200101~N~00011.53~Pancreatic elastase fecal
+2020~82657~  ~20200101~N~00022.17~Enzyme cell activity
+2020~82658~  ~20200101~N~00044.03~Enzyme cell activity ra
+2020~82664~  ~20200101~N~00061.50~Electrophoretic test
+2020~82668~  ~20200101~N~00018.79~Assay of erythropoietin
+2020~82670~  ~20200101~N~00027.94~Assay of estradiol
+2020~82671~  ~20200101~N~00032.30~Assay of estrogens
+2020~82672~  ~20200101~N~00021.70~Assay of estrogen
+2020~82677~  ~20200101~N~00024.18~Assay of estriol
+2020~82679~  ~20200101~N~00024.95~Assay of estrone
+2020~82679~QW~20200101~N~00024.95~Assay of estrone
+2020~82693~  ~20200101~N~00014.90~Assay of ethylene glycol
+2020~82696~  ~20200101~N~00026.24~Assay of etiocholanolone
+2020~82705~  ~20200101~N~00005.10~Fats/lipids feces qual
+2020~82710~  ~20200101~N~00016.80~Fats/lipids feces quant
+2020~82715~  ~20200101~N~00022.97~Assay of fecal fat
+2020~82725~  ~20200101~N~00018.77~Assay of blood fatty acids
+2020~82726~  ~20200101~N~00019.75~Long chain fatty acids
+2020~82728~  ~20200101~N~00013.63~Assay of ferritin
+2020~82731~  ~20200101~N~00064.41~Assay of fetal fibronectin
+2020~82735~  ~20200101~N~00018.54~Assay of fluoride
+2020~82746~  ~20200101~N~00014.70~Assay of folic acid serum
+2020~82747~  ~20200101~N~00017.65~Assay of folic acid rbc
+2020~82757~  ~20200101~N~00017.34~Assay of semen fructose
+2020~82759~  ~20200101~N~00021.48~Assay of rbc galactokinase
+2020~82760~  ~20200101~N~00011.20~Assay of galactose
+2020~82775~  ~20200101~N~00021.07~Assay galactose transferase
+2020~82776~  ~20200101~N~00011.74~Galactose transferase test
+2020~82777~  ~20200101~N~00044.25~Galectin-3
+2020~82784~  ~20200101~N~00009.30~Assay iga/igd/igg/igm each
+2020~82785~  ~20200101~N~00016.46~Assay of ige
+2020~82787~  ~20200101~N~00008.02~Igg 1 2 3 or 4 each
+2020~82800~  ~20200101~N~00011.00~Blood ph
+2020~82803~  ~20200101~N~00026.07~Blood gases any combination
+2020~82805~  ~20200101~N~00078.77~Blood gases w/o2 saturation
+2020~82810~  ~20200101~N~00009.77~Blood gases o2 sat only
+2020~82820~  ~20200101~N~00013.34~Hemoglobin-oxygen affinity
+2020~82930~  ~20200101~N~00006.71~Gastric analy w/ph ea spec
+2020~82938~  ~20200101~N~00017.69~Gastrin test
+2020~82941~  ~20200101~N~00017.63~Assay of gastrin
+2020~82943~  ~20200101~N~00014.29~Assay of glucagon
+2020~82945~  ~20200101~N~00003.93~Glucose other fluid
+2020~82946~  ~20200101~N~00017.77~Glucagon tolerance test
+2020~82947~  ~20200101~N~00003.93~Assay glucose blood quant
+2020~82947~QW~20200101~N~00003.93~Assay glucose blood quant
+2020~82948~  ~20200101~N~00005.04~Reagent strip/blood glucose
+2020~82950~  ~20200101~N~00004.75~Glucose test
+2020~82950~QW~20200101~N~00004.75~Glucose test
+2020~82951~  ~20200101~N~00012.87~Glucose tolerance test (gtt)
+2020~82951~QW~20200101~N~00012.87~Glucose tolerance test (gtt)
+2020~82952~  ~20200101~N~00003.92~Gtt-added samples
+2020~82952~QW~20200101~N~00003.92~Gtt-added samples
+2020~82955~  ~20200101~N~00009.70~Assay of g6pd enzyme
+2020~82960~  ~20200101~N~00006.05~Test for g6pd enzyme
+2020~82962~  ~20200101~N~00003.28~Glucose blood test
+2020~82963~  ~20200101~N~00021.48~Assay of glucosidase
+2020~82965~  ~20200101~N~00013.15~Assay of gdh enzyme
+2020~82977~  ~20200101~N~00007.20~Assay of ggt
+2020~82977~QW~20200101~N~00007.20~Assay of ggt
+2020~82978~  ~20200101~N~00015.45~Assay of glutathione
+2020~82979~  ~20200101~N~00009.44~Assay rbc glutathione
+2020~82985~  ~20200101~N~00016.76~Assay of glycated protein
+2020~82985~QW~20200101~N~00016.76~Assay of glycated protein
+2020~83001~  ~20200101~N~00018.58~Assay of gonadotropin (fsh)
+2020~83001~QW~20200101~N~00018.58~Assay of gonadotropin (fsh)
+2020~83002~  ~20200101~N~00018.52~Assay of gonadotropin (lh)
+2020~83002~QW~20200101~N~00018.52~Assay of gonadotropin (lh)
+2020~83003~  ~20200101~N~00016.67~Assay growth hormone (hgh)
+2020~83006~  ~20200101~N~00075.60~Growth stimulation gene 2
+2020~83009~  ~20200101~N~00067.36~H pylori (c-13) blood
+2020~83010~  ~20200101~N~00012.58~Assay of haptoglobin quant
+2020~83012~  ~20200101~N~00026.89~Assay of haptoglobins
+2020~83013~  ~20200101~N~00067.36~H pylori (c-13) breath
+2020~83014~  ~20200101~N~00007.86~H pylori drug admin
+2020~83015~  ~20200101~N~00020.94~Heavy metal qual any anal
+2020~83018~  ~20200101~N~00021.96~Heavy metal quant each nes
+2020~83020~  ~20200101~N~00012.87~Hemoglobin electrophoresis
+2020~83021~  ~20200101~N~00018.06~Hemoglobin chromotography
+2020~83026~  ~20200101~N~00004.01~Hemoglobin copper sulfate
+2020~83030~  ~20200101~N~00010.74~Fetal hemoglobin chemical
+2020~83033~  ~20200101~N~00008.00~Fetal hemoglobin assay qual
+2020~83036~  ~20200101~N~00009.71~Glycosylated hemoglobin test
+2020~83036~QW~20200101~N~00009.71~Glycosylated hemoglobin test
+2020~83037~  ~20200101~N~00009.71~Glycosylated hb home device
+2020~83037~QW~20200101~N~00009.71~Glycosylated hb home device
+2020~83045~  ~20200101~N~00006.49~Blood methemoglobin test
+2020~83050~  ~20200101~N~00008.20~Blood methemoglobin assay
+2020~83051~  ~20200101~N~00007.31~Assay of plasma hemoglobin
+2020~83060~  ~20200101~N~00008.80~Blood sulfhemoglobin assay
+2020~83065~  ~20200101~N~00009.00~Assay of hemoglobin heat
+2020~83068~  ~20200101~N~00009.47~Hemoglobin stability screen
+2020~83069~  ~20200101~N~00003.95~Assay of urine hemoglobin
+2020~83070~  ~20200101~N~00004.75~Assay of hemosiderin qual
+2020~83080~  ~20200101~N~00016.87~Assay of b hexosaminidase
+2020~83088~  ~20200101~N~00029.53~Assay of histamine
+2020~83090~  ~20200101~N~00017.92~Assay of homocystine
+2020~83150~  ~20200101~N~00022.41~Assay of homovanillic acid
+2020~83491~  ~20200101~N~00017.90~Assay of corticosteroids 17
+2020~83497~  ~20200101~N~00012.90~Assay of 5-hiaa
+2020~83498~  ~20200101~N~00027.17~Assay of progesterone 17-d
+2020~83500~  ~20200101~N~00022.65~Assay free hydroxyproline
+2020~83505~  ~20200101~N~00024.30~Assay total hydroxyproline
+2020~83516~  ~20200101~N~00011.53~Immunoassay nonantibody
+2020~83516~QW~20200101~N~00011.53~Immunoassay nonantibody
+2020~83518~  ~20200101~N~00009.64~Immunoassay dipstick
+2020~83518~QW~20200101~N~00009.64~Immunoassay dipstick
+2020~83519~  ~20200101~N~00018.40~Ria nonantibody
+2020~83520~  ~20200101~N~00017.27~Immunoassay quant nos nonab
+2020~83520~QW~20200101~N~00017.27~Immunoassay quant nos nonab
+2020~83525~  ~20200101~N~00011.43~Assay of insulin
+2020~83527~  ~20200101~N~00012.95~Assay of insulin
+2020~83528~  ~20200101~N~00019.82~Assay of intrinsic factor
+2020~83540~  ~20200101~N~00006.47~Assay of iron
+2020~83550~  ~20200101~N~00008.74~Iron binding test
+2020~83570~  ~20200101~N~00008.85~Assay of idh enzyme
+2020~83582~  ~20200101~N~00015.47~Assay of ketogenic steroids
+2020~83586~  ~20200101~N~00012.80~Assay 17- ketosteroids
+2020~83593~  ~20200101~N~00028.50~Fractionation ketosteroids
+2020~83605~  ~20200101~N~00011.57~Assay of lactic acid
+2020~83605~QW~20200101~N~00011.57~Assay of lactic acid
+2020~83615~  ~20200101~N~00006.04~Lactate (ld) (ldh) enzyme
+2020~83625~  ~20200101~N~00012.79~Assay of ldh enzymes
+2020~83630~  ~20200101~N~00019.70~Lactoferrin fecal (qual)
+2020~83631~  ~20200101~N~00019.63~Lactoferrin fecal (quant)
+2020~83632~  ~20200101~N~00020.22~Placental lactogen
+2020~83633~  ~20200101~N~00011.25~Test urine for lactose
+2020~83655~  ~20200101~N~00012.11~Assay of lead
+2020~83655~QW~20200101~N~00012.11~Assay of lead
+2020~83661~  ~20200101~N~00021.99~L/s ratio fetal lung
+2020~83662~  ~20200101~N~00018.91~Foam stability fetal lung
+2020~83663~  ~20200101~N~00018.91~Fluoro polarize fetal lung
+2020~83664~  ~20200101~N~00019.32~Lamellar bdy fetal lung
+2020~83670~  ~20200101~N~00009.81~Assay of lap enzyme
+2020~83690~  ~20200101~N~00006.89~Assay of lipase
+2020~83695~  ~20200101~N~00014.32~Assay of lipoprotein(a)
+2020~83698~  ~20200101~N~00046.31~Assay lipoprotein pla2
+2020~83700~  ~20200101~N~00011.26~Lipopro bld electrophoretic
+2020~83701~  ~20200101~N~00033.86~Lipoprotein bld hr fraction
+2020~83704~  ~20200101~N~00034.19~Lipoprotein bld quan part
+2020~83718~  ~20200101~N~00008.19~Assay of lipoprotein
+2020~83718~QW~20200101~N~00008.19~Assay of lipoprotein
+2020~83719~  ~20200101~N~00012.75~Assay of blood lipoprotein
+2020~83721~  ~20200101~N~00010.50~Assay of blood lipoprotein
+2020~83721~QW~20200101~N~00010.50~Assay of blood lipoprotein
+2020~83722~  ~20200101~N~00034.19~Lipoprtn dir meas sd ldl chl
+2020~83727~  ~20200101~N~00017.19~Assay of lrh hormone
+2020~83735~  ~20200101~N~00006.70~Assay of magnesium
+2020~83775~  ~20200101~N~00007.37~Assay malate dehydrogenase
+2020~83785~  ~20200101~N~00026.65~Assay of manganese
+2020~83789~  ~20200101~N~00024.11~Mass spectrometry qual/quan
+2020~83825~  ~20200101~N~00016.26~Assay of mercury
+2020~83835~  ~20200101~N~00016.94~Assay of metanephrines
+2020~83857~  ~20200101~N~00010.74~Assay of methemalbumin
+2020~83861~  ~20200101~N~00022.48~Microfluid analy tears
+2020~83861~QW~20200101~N~00022.48~Microfluid analy tears
+2020~83864~  ~20200101~N~00028.50~Mucopolysaccharides
+2020~83872~  ~20200101~N~00005.86~Assay synovial fluid mucin
+2020~83873~  ~20200101~N~00017.20~Assay of csf protein
+2020~83874~  ~20200101~N~00012.92~Assay of myoglobin
+2020~83876~  ~20200101~N~00050.86~Assay myeloperoxidase
+2020~83880~  ~20200101~N~00039.26~Assay of natriuretic peptide
+2020~83880~QW~20200101~N~00039.26~Assay of natriuretic peptide
+2020~83883~  ~20200101~N~00013.60~Assay nephelometry not spec
+2020~83885~  ~20200101~N~00024.51~Assay of nickel
+2020~83915~  ~20200101~N~00011.15~Assay of nucleotidase
+2020~83916~  ~20200101~N~00027.39~Oligoclonal bands
+2020~83918~  ~20200101~N~00023.60~Organic acids total quant
+2020~83919~  ~20200101~N~00016.45~Organic acids qual each
+2020~83921~  ~20200101~N~00021.21~Organic acid single quant
+2020~83930~  ~20200101~N~00006.61~Assay of blood osmolality
+2020~83935~  ~20200101~N~00006.82~Assay of urine osmolality
+2020~83937~  ~20200101~N~00029.85~Assay of osteocalcin
+2020~83945~  ~20200101~N~00014.45~Assay of oxalate
+2020~83950~  ~20200101~N~00064.41~Oncoprotein her-2/neu
+2020~83951~  ~20200101~N~00064.41~Oncoprotein dcp
+2020~83970~  ~20200101~N~00041.28~Assay of parathormone
+2020~83986~  ~20200101~N~00003.58~Assay ph body fluid nos
+2020~83986~QW~20200101~N~00003.58~Assay ph body fluid nos
+2020~83987~  ~20200101~N~00003.58~Exhaled breath condensate
+2020~83993~  ~20200101~N~00019.63~Assay for calprotectin fecal
+2020~84030~  ~20200101~N~00005.50~Assay of blood pku
+2020~84035~  ~20200101~N~00003.98~Assay of phenylketones
+2020~84060~  ~20200101~N~00007.64~Assay acid phosphatase
+2020~84066~  ~20200101~N~00009.66~Assay prostate phosphatase
+2020~84075~  ~20200101~N~00005.18~Assay alkaline phosphatase
+2020~84075~QW~20200101~N~00005.18~Assay alkaline phosphatase
+2020~84078~  ~20200101~N~00008.26~Assay alkaline phosphatase
+2020~84080~  ~20200101~N~00014.78~Assay alkaline phosphatases
+2020~84081~  ~20200101~N~00016.52~Assay phosphatidylglycerol
+2020~84085~  ~20200101~N~00009.44~Assay of rbc pg6d enzyme
+2020~84087~  ~20200101~N~00010.73~Assay phosphohexose enzymes
+2020~84100~  ~20200101~N~00004.74~Assay of phosphorus
+2020~84105~  ~20200101~N~00005.78~Assay of urine phosphorus
+2020~84106~  ~20200101~N~00005.82~Test for porphobilinogen
+2020~84110~  ~20200101~N~00008.44~Assay of porphobilinogen
+2020~84112~  ~20200101~N~00098.11~Eval amniotic fluid protein
+2020~84119~  ~20200101~N~00013.36~Test urine for porphyrins
+2020~84120~  ~20200101~N~00014.71~Assay of urine porphyrins
+2020~84126~  ~20200101~N~00039.11~Assay of feces porphyrins
+2020~84132~  ~20200101~N~00004.76~Assay of serum potassium
+2020~84132~QW~20200101~N~00004.76~Assay of serum potassium
+2020~84133~  ~20200101~N~00004.73~Assay of urine potassium
+2020~84134~  ~20200101~N~00014.59~Assay of prealbumin
+2020~84135~  ~20200101~N~00021.27~Assay of pregnanediol
+2020~84138~  ~20200101~N~00021.05~Assay of pregnanetriol
+2020~84140~  ~20200101~N~00020.67~Assay of pregnenolone
+2020~84143~  ~20200101~N~00022.81~Assay of 17-hydroxypregneno
+2020~84144~  ~20200101~N~00020.86~Assay of progesterone
+2020~84145~  ~20200101~N~00027.22~Procalcitonin (pct)
+2020~84146~  ~20200101~N~00019.38~Assay of prolactin
+2020~84150~  ~20200101~N~00041.77~Assay of prostaglandin
+2020~84152~  ~20200101~N~00018.39~Assay of psa complexed
+2020~84153~  ~20200101~N~00018.39~Assay of psa total
+2020~84154~  ~20200101~N~00018.39~Assay of psa free
+2020~84155~  ~20200101~N~00003.67~Assay of protein serum
+2020~84155~QW~20200101~N~00003.67~Assay of protein serum
+2020~84156~  ~20200101~N~00003.67~Assay of protein urine
+2020~84157~  ~20200101~N~00004.00~Assay of protein other
+2020~84157~QW~20200101~N~00004.00~Assay of protein other
+2020~84160~  ~20200101~N~00005.61~Assay of protein any source
+2020~84163~  ~20200101~N~00015.05~Pappa serum
+2020~84165~  ~20200101~N~00010.74~Protein e-phoresis serum
+2020~84166~  ~20200101~N~00017.83~Protein e-phoresis/urine/csf
+2020~84181~  ~20200101~N~00017.03~Western blot test
+2020~84182~  ~20200101~N~00029.21~Protein western blot test
+2020~84202~  ~20200101~N~00014.35~Assay rbc protoporphyrin
+2020~84203~  ~20200101~N~00009.74~Test rbc protoporphyrin
+2020~84206~  ~20200101~N~00026.69~Assay of proinsulin
+2020~84207~  ~20200101~N~00028.10~Assay of vitamin b-6
+2020~84210~  ~20200101~N~00014.48~Assay of pyruvate
+2020~84220~  ~20200101~N~00009.44~Assay of pyruvate kinase
+2020~84228~  ~20200101~N~00011.63~Assay of quinine
+2020~84233~  ~20200101~N~00087.88~Assay of estrogen
+2020~84234~  ~20200101~N~00064.88~Assay of progesterone
+2020~84235~  ~20200101~N~00071.23~Assay of endocrine hormone
+2020~84238~  ~20200101~N~00036.57~Assay nonendocrine receptor
+2020~84244~  ~20200101~N~00021.99~Assay of renin
+2020~84252~  ~20200101~N~00020.24~Assay of vitamin b-2
+2020~84255~  ~20200101~N~00025.53~Assay of selenium
+2020~84260~  ~20200101~N~00030.98~Assay of serotonin
+2020~84270~  ~20200101~N~00021.73~Assay of sex hormone globul
+2020~84275~  ~20200101~N~00013.44~Assay of sialic acid
+2020~84285~  ~20200101~N~00025.21~Assay of silica
+2020~84295~  ~20200101~N~00004.81~Assay of serum sodium
+2020~84295~QW~20200101~N~00004.81~Assay of serum sodium
+2020~84300~  ~20200101~N~00005.06~Assay of urine sodium
+2020~84302~  ~20200101~N~00004.86~Assay of sweat sodium
+2020~84305~  ~20200101~N~00021.26~Assay of somatomedin
+2020~84307~  ~20200101~N~00018.28~Assay of somatostatin
+2020~84311~  ~20200101~N~00008.10~Spectrophotometry
+2020~84315~  ~20200101~N~00003.28~Body fluid specific gravity
+2020~84375~  ~20200101~N~00039.00~Chromatogram assay sugars
+2020~84376~  ~20200101~N~00005.50~Sugars single qual
+2020~84377~  ~20200101~N~00005.50~Sugars multiple qual
+2020~84378~  ~20200101~N~00011.53~Sugars single quant
+2020~84379~  ~20200101~N~00011.53~Sugars multiple quant
+2020~84392~  ~20200101~N~00005.49~Assay of urine sulfate
+2020~84402~  ~20200101~N~00025.47~Assay of free testosterone
+2020~84403~  ~20200101~N~00025.81~Assay of total testosterone
+2020~84410~  ~20200101~N~00051.28~Testosterone bioavailable
+2020~84425~  ~20200101~N~00021.23~Assay of vitamin b-1
+2020~84430~  ~20200101~N~00011.63~Assay of thiocyanate
+2020~84431~  ~20200101~N~00035.11~Thromboxane urine
+2020~84432~  ~20200101~N~00016.06~Assay of thyroglobulin
+2020~84436~  ~20200101~N~00006.87~Assay of total thyroxine
+2020~84437~  ~20200101~N~00006.47~Assay of neonatal thyroxine
+2020~84439~  ~20200101~N~00009.02~Assay of free thyroxine
+2020~84442~  ~20200101~N~00014.78~Assay of thyroid activity
+2020~84443~  ~20200101~N~00016.80~Assay thyroid stim hormone
+2020~84443~QW~20200101~N~00016.80~Assay thyroid stim hormone
+2020~84445~  ~20200101~N~00050.86~Assay of tsi globulin
+2020~84446~  ~20200101~N~00014.18~Assay of vitamin e
+2020~84449~  ~20200101~N~00018.00~Assay of transcortin
+2020~84450~  ~20200101~N~00005.18~Transferase (ast) (sgot)
+2020~84450~QW~20200101~N~00005.18~Transferase (ast) (sgot)
+2020~84460~  ~20200101~N~00005.30~Alanine amino (alt) (sgpt)
+2020~84460~QW~20200101~N~00005.30~Alanine amino (alt) (sgpt)
+2020~84466~  ~20200101~N~00012.76~Assay of transferrin
+2020~84478~  ~20200101~N~00005.74~Assay of triglycerides
+2020~84478~QW~20200101~N~00005.74~Assay of triglycerides
+2020~84479~  ~20200101~N~00006.47~Assay of thyroid (t3 or t4)
+2020~84480~  ~20200101~N~00014.18~Assay triiodothyronine (t3)
+2020~84481~  ~20200101~N~00016.94~Free assay (ft-3)
+2020~84482~  ~20200101~N~00015.76~T3 reverse
+2020~84484~  ~20200101~N~00012.47~Assay of troponin quant
+2020~84485~  ~20200101~N~00007.20~Assay duodenal fluid trypsin
+2020~84488~  ~20200101~N~00007.30~Test feces for trypsin
+2020~84490~  ~20200101~N~00009.93~Assay of feces for trypsin
+2020~84510~  ~20200101~N~00010.63~Assay of tyrosine
+2020~84512~  ~20200101~N~00010.09~Assay of troponin qual
+2020~84520~  ~20200101~N~00003.95~Assay of urea nitrogen
+2020~84520~QW~20200101~N~00003.95~Assay of urea nitrogen
+2020~84525~  ~20200101~N~00005.13~Urea nitrogen semi-quant
+2020~84540~  ~20200101~N~00005.56~Assay of urine/urea-n
+2020~84545~  ~20200101~N~00007.20~Urea-n clearance test
+2020~84550~  ~20200101~N~00004.52~Assay of blood/uric acid
+2020~84550~QW~20200101~N~00004.52~Assay of blood/uric acid
+2020~84560~  ~20200101~N~00005.08~Assay of urine/uric acid
+2020~84577~  ~20200101~N~00016.80~Assay of feces/urobilinogen
+2020~84578~  ~20200101~N~00004.47~Test urine urobilinogen
+2020~84580~  ~20200101~N~00009.55~Assay of urine urobilinogen
+2020~84583~  ~20200101~N~00006.05~Assay of urine urobilinogen
+2020~84585~  ~20200101~N~00015.50~Assay of urine vma
+2020~84586~  ~20200101~N~00035.33~Assay of vip
+2020~84588~  ~20200101~N~00033.94~Assay of vasopressin
+2020~84590~  ~20200101~N~00011.61~Assay of vitamin a
+2020~84591~  ~20200101~N~00017.06~Assay of nos vitamin
+2020~84597~  ~20200101~N~00013.72~Assay of vitamin k
+2020~84600~  ~20200101~N~00017.11~Assay of volatiles
+2020~84620~  ~20200101~N~00012.91~Xylose tolerance test
+2020~84630~  ~20200101~N~00011.39~Assay of zinc
+2020~84681~  ~20200101~N~00020.81~Assay of c-peptide
+2020~84702~  ~20200101~N~00015.05~Chorionic gonadotropin test
+2020~84703~  ~20200101~N~00007.52~Chorionic gonadotropin assay
+2020~84703~QW~20200101~N~00007.52~Chorionic gonadotropin assay
+2020~84704~  ~20200101~N~00015.29~Hcg free betachain test
+2020~84830~  ~20200101~N~00012.70~Ovulation tests
+2020~85002~  ~20200101~N~00004.82~Bleeding time test
+2020~85004~  ~20200101~N~00006.47~Automated diff wbc count
+2020~85007~  ~20200101~N~00003.80~Bl smear w/diff wbc count
+2020~85008~  ~20200101~N~00003.43~Bl smear w/o diff wbc count
+2020~85009~  ~20200101~N~00005.07~Manual diff wbc count b-coat
+2020~85013~  ~20200101~N~00007.00~Spun microhematocrit
+2020~85014~  ~20200101~N~00002.37~Hematocrit
+2020~85014~QW~20200101~N~00002.37~Hematocrit
+2020~85018~  ~20200101~N~00002.37~Hemoglobin
+2020~85018~QW~20200101~N~00002.37~Hemoglobin
+2020~85025~  ~20200101~N~00007.77~Complete cbc w/auto diff wbc
+2020~85025~QW~20200101~N~00007.77~Complete cbc w/auto diff wbc
+2020~85027~  ~20200101~N~00006.47~Complete cbc automated
+2020~85032~  ~20200101~N~00004.31~Manual cell count each
+2020~85041~  ~20200101~N~00003.02~Automated rbc count
+2020~85044~  ~20200101~N~00004.31~Manual reticulocyte count
+2020~85045~  ~20200101~N~00003.99~Automated reticulocyte count
+2020~85046~  ~20200101~N~00005.57~Reticyte/hgb concentrate
+2020~85048~  ~20200101~N~00002.54~Automated leukocyte count
+2020~85049~  ~20200101~N~00004.48~Automated platelet count
+2020~85055~  ~20200101~N~00035.74~Reticulated platelet assay
+2020~85130~  ~20200101~N~00011.89~Chromogenic substrate assay
+2020~85170~  ~20200101~N~00016.30~Blood clot retraction
+2020~85175~  ~20200101~N~00020.37~Blood clot lysis time
+2020~85210~  ~20200101~N~00012.98~Clot factor ii prothrom spec
+2020~85220~  ~20200101~N~00017.65~Blooc clot factor v test
+2020~85230~  ~20200101~N~00017.90~Clot factor vii proconvertin
+2020~85240~  ~20200101~N~00017.90~Clot factor viii ahg 1 stage
+2020~85244~  ~20200101~N~00020.42~Clot factor viii reltd antgn
+2020~85245~  ~20200101~N~00022.94~Clot factor viii vw ristoctn
+2020~85246~  ~20200101~N~00022.94~Clot factor viii vw antigen
+2020~85247~  ~20200101~N~00022.94~Clot factor viii multimetric
+2020~85250~  ~20200101~N~00019.04~Clot factor ix ptc/chrstmas
+2020~85260~  ~20200101~N~00017.90~Clot factor x stuart-power
+2020~85270~  ~20200101~N~00017.90~Clot factor xi pta
+2020~85280~  ~20200101~N~00019.35~Clot factor xii hageman
+2020~85290~  ~20200101~N~00016.34~Clot factor xiii fibrin stab
+2020~85291~  ~20200101~N~00009.11~Clot factor xiii fibrin scrn
+2020~85292~  ~20200101~N~00018.93~Clot factor fletcher fact
+2020~85293~  ~20200101~N~00018.93~Clot factor wght kininogen
+2020~85300~  ~20200101~N~00011.85~Antithrombin iii activity
+2020~85301~  ~20200101~N~00010.81~Antithrombin iii antigen
+2020~85302~  ~20200101~N~00012.01~Clot inhibit prot c antigen
+2020~85303~  ~20200101~N~00013.84~Clot inhibit prot c activity
+2020~85305~  ~20200101~N~00011.61~Clot inhibit prot s total
+2020~85306~  ~20200101~N~00015.32~Clot inhibit prot s free
+2020~85307~  ~20200101~N~00015.32~Assay activated protein c
+2020~85335~  ~20200101~N~00012.87~Factor inhibitor test
+2020~85337~  ~20200101~N~00017.27~Thrombomodulin
+2020~85345~  ~20200101~N~00004.69~Coagulation time lee & white
+2020~85347~  ~20200101~N~00004.28~Coagulation time activated
+2020~85348~  ~20200101~N~00004.49~Coagulation time otr method
+2020~85360~  ~20200101~N~00008.41~Euglobulin lysis
+2020~85362~  ~20200101~N~00006.89~Fibrin degradation products
+2020~85366~  ~20200101~N~00080.46~Fibrinogen test
+2020~85370~  ~20200101~N~00012.43~Fibrinogen test
+2020~85378~  ~20200101~N~00009.72~Fibrin degrade semiquant
+2020~85379~  ~20200101~N~00010.18~Fibrin degradation quant
+2020~85380~  ~20200101~N~00010.18~Fibrin degradj d-dimer
+2020~85384~  ~20200101~N~00009.72~Fibrinogen activity
+2020~85385~  ~20200101~N~00014.46~Fibrinogen antigen
+2020~85390~  ~20200101~N~00015.48~Fibrinolysins screen i&r
+2020~85397~  ~20200101~N~00030.86~Clotting funct activity
+2020~85400~  ~20200101~N~00007.71~Fibrinolytic plasmin
+2020~85410~  ~20200101~N~00007.71~Fibrinolytic antiplasmin
+2020~85415~  ~20200101~N~00017.19~Fibrinolytic plasminogen
+2020~85420~  ~20200101~N~00006.53~Fibrinolytic plasminogen
+2020~85421~  ~20200101~N~00010.18~Fibrinolytic plasminogen
+2020~85441~  ~20200101~N~00004.20~Heinz bodies direct
+2020~85445~  ~20200101~N~00006.82~Heinz bodies induced
+2020~85460~  ~20200101~N~00007.73~Hemoglobin fetal
+2020~85461~  ~20200101~N~00009.36~Hemoglobin fetal
+2020~85475~  ~20200101~N~00008.87~Hemolysin acid
+2020~85520~  ~20200101~N~00013.09~Heparin assay
+2020~85525~  ~20200101~N~00011.84~Heparin neutralization
+2020~85530~  ~20200101~N~00013.09~Heparin-protamine tolerance
+2020~85536~  ~20200101~N~00006.88~Iron stain peripheral blood
+2020~85540~  ~20200101~N~00008.60~Wbc alkaline phosphatase
+2020~85547~  ~20200101~N~00008.60~Rbc mechanical fragility
+2020~85549~  ~20200101~N~00018.75~Muramidase
+2020~85555~  ~20200101~N~00007.47~Rbc osmotic fragility
+2020~85557~  ~20200101~N~00013.36~Rbc osmotic fragility
+2020~85576~  ~20200101~N~00024.91~Blood platelet aggregation
+2020~85576~QW~20200101~N~00024.91~Blood platelet aggregation
+2020~85597~  ~20200101~N~00017.98~Phospholipid pltlt neutraliz
+2020~85598~  ~20200101~N~00017.98~Hexagnal phosph pltlt neutrl
+2020~85610~  ~20200101~N~00004.29~Prothrombin time
+2020~85610~QW~20200101~N~00004.29~Prothrombin time
+2020~85611~  ~20200101~N~00003.94~Prothrombin test
+2020~85612~  ~20200101~N~00017.49~Viper venom prothrombin time
+2020~85613~  ~20200101~N~00009.58~Russell viper venom diluted
+2020~85635~  ~20200101~N~00009.85~Reptilase test
+2020~85651~  ~20200101~N~00004.27~Rbc sed rate nonautomated
+2020~85652~  ~20200101~N~00002.70~Rbc sed rate automated
+2020~85660~  ~20200101~N~00005.51~Rbc sickle cell test
+2020~85670~  ~20200101~N~00005.77~Thrombin time plasma
+2020~85675~  ~20200101~N~00006.85~Thrombin time titer
+2020~85705~  ~20200101~N~00009.63~Thromboplastin inhibition
+2020~85730~  ~20200101~N~00006.01~Thromboplastin time partial
+2020~85732~  ~20200101~N~00006.47~Thromboplastin time partial
+2020~85810~  ~20200101~N~00011.67~Blood viscosity examination
+2020~86000~  ~20200101~N~00006.98~Agglutinins febrile antigen
+2020~86001~  ~20200101~N~00007.82~Allergen specific igg
+2020~86003~  ~20200101~N~00005.22~Allg spec ige crude xtrc ea
+2020~86005~  ~20200101~N~00007.97~Allg spec ige multiallg scr
+2020~86008~  ~20200101~N~00017.93~Allg spec ige recomb ea
+2020~86021~  ~20200101~N~00015.05~Wbc antibody identification
+2020~86022~  ~20200101~N~00018.37~Platelet antibodies
+2020~86023~  ~20200101~N~00012.46~Immunoglobulin assay
+2020~86038~  ~20200101~N~00012.09~Antinuclear antibodies
+2020~86039~  ~20200101~N~00011.16~Antinuclear antibodies (ana)
+2020~86060~  ~20200101~N~00007.30~Antistreptolysin o titer
+2020~86063~  ~20200101~N~00005.77~Antistreptolysin o screen
+2020~86140~  ~20200101~N~00005.18~C-reactive protein
+2020~86141~  ~20200101~N~00012.95~C-reactive protein hs
+2020~86146~  ~20200101~N~00025.45~Beta-2 glycoprotein antibody
+2020~86147~  ~20200101~N~00025.45~Cardiolipin antibody ea ig
+2020~86148~  ~20200101~N~00016.07~Anti-phospholipid antibody
+2020~86152~  ~20200101~N~00250.78~Cell enumeration & id
+2020~86155~  ~20200101~N~00015.99~Chemotaxis assay
+2020~86156~  ~20200101~N~00008.07~Cold agglutinin screen
+2020~86157~  ~20200101~N~00008.06~Cold agglutinin titer
+2020~86160~  ~20200101~N~00012.00~Complement antigen
+2020~86161~  ~20200101~N~00012.00~Complement/function activity
+2020~86162~  ~20200101~N~00020.32~Complement total (ch50)
+2020~86171~  ~20200101~N~00010.01~Complement fixation each
+2020~86200~  ~20200101~N~00012.95~Ccp antibody
+2020~86215~  ~20200101~N~00013.25~Deoxyribonuclease antibody
+2020~86225~  ~20200101~N~00013.74~Dna antibody native
+2020~86226~  ~20200101~N~00012.11~Dna antibody single strand
+2020~86235~  ~20200101~N~00017.93~Nuclear antigen antibody
+2020~86255~  ~20200101~N~00012.05~Fluorescent antibody screen
+2020~86256~  ~20200101~N~00012.05~Fluorescent antibody titer
+2020~86277~  ~20200101~N~00015.74~Growth hormone antibody
+2020~86280~  ~20200101~N~00008.19~Hemagglutination inhibition
+2020~86294~  ~20200101~N~00025.57~Immunoassay tumor qual
+2020~86294~QW~20200101~N~00025.57~Immunoassay tumor qual
+2020~86300~  ~20200101~N~00020.81~Immunoassay tumor ca 15-3
+2020~86301~  ~20200101~N~00020.81~Immunoassay tumor ca 19-9
+2020~86304~  ~20200101~N~00020.81~Immunoassay tumor ca 125
+2020~86305~  ~20200101~N~00020.81~Human epididymis protein 4
+2020~86308~  ~20200101~N~00005.18~Heterophile antibody screen
+2020~86308~QW~20200101~N~00005.18~Heterophile antibody screen
+2020~86309~  ~20200101~N~00006.47~Heterophile antibody titer
+2020~86310~  ~20200101~N~00007.37~Heterophile antibody absrbj
+2020~86316~  ~20200101~N~00020.81~Immunoassay tumor other
+2020~86317~  ~20200101~N~00014.99~Immunoassay infectious agent
+2020~86318~  ~20200101~N~00018.09~Ia infectious agent antibody
+2020~86318~QW~20200101~N~00018.09~Ia infectious agent antibody
+2020~86320~  ~20200101~N~00029.92~Serum immunoelectrophoresis
+2020~86325~  ~20200101~N~00023.13~Other immunoelectrophoresis
+2020~86327~  ~20200101~N~00029.92~Immunoelectrophoresis assay
+2020~86328~  ~20200101~L~00000.00~Ia nfct ab sarscov2 covid19
+2020~86329~  ~20200101~N~00014.05~Immunodiffusion nes
+2020~86331~  ~20200101~N~00011.98~Immunodiffusion ouchterlony
+2020~86332~  ~20200101~N~00024.37~Immune complex assay
+2020~86334~  ~20200101~N~00022.34~Immunofix e-phoresis serum
+2020~86335~  ~20200101~N~00029.35~Immunfix e-phorsis/urine/csf
+2020~86336~  ~20200101~N~00015.59~Inhibin a
+2020~86337~  ~20200101~N~00021.41~Insulin antibodies
+2020~86340~  ~20200101~N~00015.08~Intrinsic factor antibody
+2020~86341~  ~20200101~N~00023.57~Islet cell antibody
+2020~86343~  ~20200101~N~00012.46~Leukocyte histamine release
+2020~86344~  ~20200101~N~00010.39~Leukocyte phagocytosis
+2020~86352~  ~20200101~N~00135.86~Cell function assay w/stim
+2020~86353~  ~20200101~N~00049.03~Lymphocyte transformation
+2020~86355~  ~20200101~N~00037.73~B cells total count
+2020~86356~  ~20200101~N~00026.78~Mononuclear cell antigen
+2020~86357~  ~20200101~N~00037.73~Nk cells total count
+2020~86359~  ~20200101~N~00037.73~T cells total count
+2020~86360~  ~20200101~N~00046.98~T cell absolute count/ratio
+2020~86361~  ~20200101~N~00026.78~T cell absolute count
+2020~86367~  ~20200101~N~00077.78~Stem cells total count
+2020~86376~  ~20200101~N~00014.55~Microsomal antibody each
+2020~86382~  ~20200101~N~00016.91~Neutralization test viral
+2020~86384~  ~20200101~N~00013.61~Nitroblue tetrazolium dye
+2020~86386~  ~20200101~N~00021.78~Nuclear matrix protein 22
+2020~86386~QW~20200101~N~00021.78~Nuclear matrix protein 22
+2020~86403~  ~20200101~N~00011.54~Particle agglut antbdy scrn
+2020~86406~  ~20200101~N~00010.64~Particle agglut antbdy titr
+2020~86430~  ~20200101~N~00006.14~Rheumatoid factor test qual
+2020~86431~  ~20200101~N~00005.67~Rheumatoid factor quant
+2020~86480~  ~20200101~N~00061.98~Tb test cell immun measure
+2020~86481~  ~20200101~N~00100.00~Tb ag response t-cell susp
+2020~86590~  ~20200101~N~00012.66~Streptokinase antibody
+2020~86592~  ~20200101~N~00004.27~Syphilis test non-trep qual
+2020~86593~  ~20200101~N~00004.40~Syphilis test non-trep quant
+2020~86602~  ~20200101~N~00010.18~Antinomyces antibody
+2020~86603~  ~20200101~N~00012.87~Adenovirus antibody
+2020~86606~  ~20200101~N~00015.05~Aspergillus antibody
+2020~86609~  ~20200101~N~00012.88~Bacterium antibody
+2020~86611~  ~20200101~N~00010.18~Bartonella antibody
+2020~86612~  ~20200101~N~00012.90~Blastomyces antibody
+2020~86615~  ~20200101~N~00013.19~Bordetella antibody
+2020~86617~  ~20200101~N~00015.49~Lyme disease antibody
+2020~86618~  ~20200101~N~00017.03~Lyme disease antibody
+2020~86618~QW~20200101~N~00017.03~Lyme disease antibody
+2020~86619~  ~20200101~N~00013.38~Borrelia antibody
+2020~86622~  ~20200101~N~00008.93~Brucella antibody
+2020~86625~  ~20200101~N~00013.12~Campylobacter antibody
+2020~86628~  ~20200101~N~00012.01~Candida antibody
+2020~86631~  ~20200101~N~00011.82~Chlamydia antibody
+2020~86632~  ~20200101~N~00012.68~Chlamydia igm antibody
+2020~86635~  ~20200101~N~00011.47~Coccidioides antibody
+2020~86638~  ~20200101~N~00012.12~Q fever antibody
+2020~86641~  ~20200101~N~00014.41~Cryptococcus antibody
+2020~86644~  ~20200101~N~00014.39~Cmv antibody
+2020~86645~  ~20200101~N~00016.85~Cmv antibody igm
+2020~86648~  ~20200101~N~00015.21~Diphtheria antibody
+2020~86651~  ~20200101~N~00013.19~Encephalitis californ antbdy
+2020~86652~  ~20200101~N~00013.19~Encephaltis east eqne anbdy
+2020~86653~  ~20200101~N~00013.19~Encephaltis st louis antbody
+2020~86654~  ~20200101~N~00013.19~Encephaltis west eqne antbdy
+2020~86658~  ~20200101~N~00013.03~Enterovirus antibody
+2020~86663~  ~20200101~N~00013.12~Epstein-barr antibody
+2020~86664~  ~20200101~N~00015.29~Epstein-barr nuclear antigen
+2020~86665~  ~20200101~N~00018.14~Epstein-barr capsid vca
+2020~86666~  ~20200101~N~00010.18~Ehrlichia antibody
+2020~86668~  ~20200101~N~00014.16~Francisella tularensis
+2020~86671~  ~20200101~N~00012.25~Fungus nes antibody
+2020~86674~  ~20200101~N~00014.72~Giardia lamblia antibody
+2020~86677~  ~20200101~N~00016.85~Helicobacter pylori antibody
+2020~86682~  ~20200101~N~00013.01~Helminth antibody
+2020~86684~  ~20200101~N~00015.84~Hemophilus influenza antibdy
+2020~86687~  ~20200101~N~00009.09~Htlv-i antibody
+2020~86688~  ~20200101~N~00014.00~Htlv-ii antibody
+2020~86689~  ~20200101~N~00019.35~Htlv/hiv confirmj antibody
+2020~86692~  ~20200101~N~00017.16~Hepatitis delta agent antbdy
+2020~86694~  ~20200101~N~00014.39~Herpes simplex nes antbdy
+2020~86695~  ~20200101~N~00013.19~Herpes simplex type 1 test
+2020~86696~  ~20200101~N~00019.35~Herpes simplex type 2 test
+2020~86698~  ~20200101~N~00013.79~Histoplasma antibody
+2020~86701~  ~20200101~N~00008.89~Hiv-1antibody
+2020~86701~QW~20200101~N~00008.89~Hiv-1antibody
+2020~86702~  ~20200101~N~00013.52~Hiv-2 antibody
+2020~86703~  ~20200101~N~00013.71~Hiv-1/hiv-2 1 result antbdy
+2020~86704~  ~20200101~N~00012.05~Hep b core antibody total
+2020~86705~  ~20200101~N~00011.77~Hep b core antibody igm
+2020~86706~  ~20200101~N~00010.74~Hep b surface antibody
+2020~86707~  ~20200101~N~00011.57~Hepatitis be antibody
+2020~86708~  ~20200101~N~00012.39~Hepatitis a antibody
+2020~86709~  ~20200101~N~00011.26~Hepatitis a igm antibody
+2020~86710~  ~20200101~N~00013.55~Influenza virus antibody
+2020~86711~  ~20200101~N~00016.89~John cunningham antibody
+2020~86713~  ~20200101~N~00015.30~Legionella antibody
+2020~86717~  ~20200101~N~00012.25~Leishmania antibody
+2020~86720~  ~20200101~N~00016.20~Leptospira antibody
+2020~86723~  ~20200101~N~00013.19~Listeria monocytogenes
+2020~86727~  ~20200101~N~00012.87~Lymph choriomeningitis ab
+2020~86732~  ~20200101~N~00015.00~Mucormycosis antibody
+2020~86735~  ~20200101~N~00013.05~Mumps antibody
+2020~86738~  ~20200101~N~00013.24~Mycoplasma antibody
+2020~86741~  ~20200101~N~00013.19~Neisseria meningitidis
+2020~86744~  ~20200101~N~00015.99~Nocardia antibody
+2020~86747~  ~20200101~N~00015.03~Parvovirus antibody
+2020~86750~  ~20200101~N~00013.19~Malaria antibody
+2020~86753~  ~20200101~N~00012.39~Protozoa antibody nos
+2020~86756~  ~20200101~N~00015.89~Respiratory virus antibody
+2020~86757~  ~20200101~N~00019.35~Rickettsia antibody
+2020~86759~  ~20200101~N~00018.23~Rotavirus antibody
+2020~86762~  ~20200101~N~00014.39~Rubella antibody
+2020~86765~  ~20200101~N~00012.88~Rubeola antibody
+2020~86768~  ~20200101~N~00013.19~Salmonella antibody
+2020~86769~  ~20200101~L~00000.00~Sars-cov-2 covid-19 antibody
+2020~86771~  ~20200101~N~00024.48~Shigella antibody
+2020~86774~  ~20200101~N~00014.80~Tetanus antibody
+2020~86777~  ~20200101~N~00014.39~Toxoplasma antibody
+2020~86778~  ~20200101~N~00014.41~Toxoplasma antibody igm
+2020~86780~  ~20200101~N~00013.24~Treponema pallidum
+2020~86780~QW~20200101~N~00013.24~Treponema pallidum
+2020~86784~  ~20200101~N~00012.56~Trichinella antibody
+2020~86787~  ~20200101~N~00012.88~Varicella-zoster antibody
+2020~86788~  ~20200101~N~00016.85~West nile virus ab igm
+2020~86789~  ~20200101~N~00014.39~West nile virus antibody
+2020~86790~  ~20200101~N~00012.88~Virus antibody nos
+2020~86793~  ~20200101~N~00013.19~Yersinia antibody
+2020~86794~  ~20200101~N~00016.85~Zika virus igm antibody
+2020~86800~  ~20200101~N~00015.91~Thyroglobulin antibody
+2020~86803~  ~20200101~N~00014.27~Hepatitis c ab test
+2020~86803~QW~20200101~N~00014.27~Hepatitis c ab test
+2020~86804~  ~20200101~N~00015.49~Hep c ab test confirm
+2020~86805~  ~20200101~N~00189.51~Lymphocytotoxicity assay
+2020~86806~  ~20200101~N~00047.59~Lymphocytotoxicity assay
+2020~86807~  ~20200101~N~00078.65~Cytotoxic antibody screening
+2020~86808~  ~20200101~N~00029.68~Cytotoxic antibody screening
+2020~86812~  ~20200101~N~00025.81~Hla typing a b or c
+2020~86813~  ~20200101~N~00058.00~Hla typing a b or c
+2020~86816~  ~20200101~N~00030.17~Hla typing dr/dq
+2020~86817~  ~20200101~N~00106.14~Hla typing dr/dq
+2020~86821~  ~20200101~N~00036.56~Lymphocyte culture mixed
+2020~86825~  ~20200101~N~00109.49~Hla x-math non-cytotoxic
+2020~86826~  ~20200101~N~00036.53~Hla x-match noncytotoxc addl
+2020~86828~  ~20200101~N~00064.19~Hla class i&ii antibody qual
+2020~86829~  ~20200101~N~00064.19~Hla class i/ii antibody qual
+2020~86830~  ~20200101~N~00095.52~Hla class i phenotype qual
+2020~86831~  ~20200101~N~00081.88~Hla class ii phenotype qual
+2020~86832~  ~20200101~N~00323.75~Hla class i high defin qual
+2020~86833~  ~20200101~N~00325.80~Hla class ii high defin qual
+2020~86834~  ~20200101~N~00357.56~Hla class i semiquant panel
+2020~86835~  ~20200101~N~00322.96~Hla class ii semiquant panel
+2020~86850~  ~20200101~N~00009.77~Rbc antibody screen
+2020~86880~  ~20200101~N~00005.39~Coombs test direct
+2020~86885~  ~20200101~N~00005.72~Coombs test indirect qual
+2020~86886~  ~20200101~N~00005.18~Coombs test indirect titer
+2020~86900~  ~20200101~N~00002.99~Blood typing serologic abo
+2020~86901~  ~20200101~N~00002.99~Blood typing serologic rh(d)
+2020~86902~  ~20200101~N~00006.35~Blood type antigen donor ea
+2020~86904~  ~20200101~N~00016.34~Blood typing patient serum
+2020~86905~  ~20200101~N~00003.83~Blood typing rbc antigens
+2020~86906~  ~20200101~N~00007.75~Bld typing serologic rh phnt
+2020~86940~  ~20200101~N~00008.77~Hemolysins/agglutinins auto
+2020~86941~  ~20200101~N~00012.11~Hemolysins/agglutinins
+2020~87003~  ~20200101~N~00016.84~Small animal inoculation
+2020~87015~  ~20200101~N~00006.68~Specimen infect agnt concntj
+2020~87040~  ~20200101~N~00010.32~Blood culture for bacteria
+2020~87045~  ~20200101~N~00009.44~Feces culture aerobic bact
+2020~87046~  ~20200101~N~00009.44~Stool cultr aerobic bact ea
+2020~87070~  ~20200101~N~00008.62~Culture othr specimn aerobic
+2020~87071~  ~20200101~N~00009.89~Culture aerobic quant other
+2020~87073~  ~20200101~N~00009.66~Culture bacteria anaerobic
+2020~87075~  ~20200101~N~00009.47~Cultr bacteria except blood
+2020~87076~  ~20200101~N~00008.08~Culture anaerobe ident each
+2020~87077~  ~20200101~N~00008.08~Culture aerobic identify
+2020~87077~QW~20200101~N~00008.08~Culture aerobic identify
+2020~87081~  ~20200101~N~00006.63~Culture screen only
+2020~87084~  ~20200101~N~00027.07~Culture of specimen by kit
+2020~87086~  ~20200101~N~00008.07~Urine culture/colony count
+2020~87088~  ~20200101~N~00008.09~Urine bacteria culture
+2020~87101~  ~20200101~N~00007.71~Skin fungi culture
+2020~87102~  ~20200101~N~00008.41~Fungus isolation culture
+2020~87103~  ~20200101~N~00020.46~Blood fungus culture
+2020~87106~  ~20200101~N~00010.32~Fungi identification yeast
+2020~87107~  ~20200101~N~00010.32~Fungi identification mold
+2020~87109~  ~20200101~N~00015.39~Mycoplasma
+2020~87110~  ~20200101~N~00019.60~Chlamydia culture
+2020~87116~  ~20200101~N~00010.80~Mycobacteria culture
+2020~87118~  ~20200101~N~00014.61~Mycobacteric identification
+2020~87140~  ~20200101~N~00005.57~Culture type immunofluoresc
+2020~87143~  ~20200101~N~00012.52~Culture typing glc/hplc
+2020~87147~  ~20200101~N~00005.18~Culture type immunologic
+2020~87149~  ~20200101~N~00020.05~Dna/rna direct probe
+2020~87150~  ~20200101~N~00035.09~Dna/rna amplified probe
+2020~87152~  ~20200101~N~00007.74~Culture type pulse field gel
+2020~87153~  ~20200101~N~00115.36~Dna/rna sequencing
+2020~87158~  ~20200101~N~00007.74~Culture typing added method
+2020~87164~  ~20200101~N~00010.74~Dark field examination
+2020~87166~  ~20200101~N~00011.30~Dark field examination
+2020~87168~  ~20200101~N~00004.27~Macroscopic exam arthropod
+2020~87169~  ~20200101~N~00004.31~Macroscopic exam parasite
+2020~87172~  ~20200101~N~00004.27~Pinworm exam
+2020~87176~  ~20200101~N~00005.88~Tissue homogenization cultr
+2020~87177~  ~20200101~N~00008.90~Ova and parasites smears
+2020~87181~  ~20200101~N~00004.75~Microbe susceptible diffuse
+2020~87184~  ~20200101~N~00007.48~Microbe susceptible disk
+2020~87185~  ~20200101~N~00004.75~Microbe susceptible enzyme
+2020~87186~  ~20200101~N~00008.65~Microbe susceptible mic
+2020~87187~  ~20200101~N~00040.17~Microbe susceptible mlc
+2020~87188~  ~20200101~N~00006.64~Microbe suscept macrobroth
+2020~87190~  ~20200101~N~00007.31~Microbe suscept mycobacteri
+2020~87197~  ~20200101~N~00015.02~Bactericidal level serum
+2020~87205~  ~20200101~N~00004.27~Smear gram stain
+2020~87206~  ~20200101~N~00005.39~Smear fluorescent/acid stai
+2020~87207~  ~20200101~N~00005.99~Smear special stain
+2020~87209~  ~20200101~N~00017.98~Smear complex stain
+2020~87210~  ~20200101~N~00005.82~Smear wet mount saline/ink
+2020~87210~QW~20200101~N~00005.82~Smear wet mount saline/ink
+2020~87220~  ~20200101~N~00004.27~Tissue exam for fungi
+2020~87230~  ~20200101~N~00019.74~Assay toxin or antitoxin
+2020~87250~  ~20200101~N~00019.56~Virus inoculate eggs/animal
+2020~87252~  ~20200101~N~00026.07~Virus inoculation tissue
+2020~87253~  ~20200101~N~00020.20~Virus inoculate tissue addl
+2020~87254~  ~20200101~N~00019.56~Virus inoculation shell via
+2020~87255~  ~20200101~N~00033.86~Genet virus isolate hsv
+2020~87260~  ~20200101~N~00014.43~Adenovirus ag if
+2020~87265~  ~20200101~N~00011.98~Pertussis ag if
+2020~87267~  ~20200101~N~00013.42~Enterovirus antibody dfa
+2020~87269~  ~20200101~N~00013.61~Giardia ag if
+2020~87270~  ~20200101~N~00011.98~Chlamydia trachomatis ag if
+2020~87271~  ~20200101~N~00013.42~Cytomegalovirus dfa
+2020~87272~  ~20200101~N~00011.98~Cryptosporidium ag if
+2020~87273~  ~20200101~N~00011.98~Herpes simplex 2 ag if
+2020~87274~  ~20200101~N~00011.98~Herpes simplex 1 ag if
+2020~87275~  ~20200101~N~00012.25~Influenza b ag if
+2020~87276~  ~20200101~N~00016.07~Influenza a ag if
+2020~87278~  ~20200101~N~00015.60~Legion pneumophilia ag if
+2020~87279~  ~20200101~N~00016.43~Parainfluenza ag if
+2020~87280~  ~20200101~N~00013.42~Respiratory syncytial ag if
+2020~87281~  ~20200101~N~00011.98~Pneumocystis carinii ag if
+2020~87283~  ~20200101~N~00060.80~Rubeola ag if
+2020~87285~  ~20200101~N~00012.18~Treponema pallidum ag if
+2020~87290~  ~20200101~N~00013.42~Varicella zoster ag if
+2020~87299~  ~20200101~N~00016.10~Antibody detection nos if
+2020~87300~  ~20200101~N~00011.98~Ag detection polyval if
+2020~87301~  ~20200101~N~00011.98~Adenovirus ag ia
+2020~87305~  ~20200101~N~00011.98~Aspergillus ag ia
+2020~87320~  ~20200101~N~00015.00~Chylmd trach ag ia
+2020~87324~  ~20200101~N~00011.98~Clostridium ag ia
+2020~87327~  ~20200101~N~00013.42~Cryptococcus neoform ag ia
+2020~87328~  ~20200101~N~00013.82~Cryptosporidium ag ia
+2020~87329~  ~20200101~N~00011.98~Giardia ag ia
+2020~87332~  ~20200101~N~00011.98~Cytomegalovirus ag ia
+2020~87335~  ~20200101~N~00012.66~E coli 0157 ag ia
+2020~87336~  ~20200101~N~00016.00~Entamoeb hist dispr ag ia
+2020~87337~  ~20200101~N~00011.98~Entamoeb hist group ag ia
+2020~87338~  ~20200101~N~00014.38~Hpylori stool ia
+2020~87338~QW~20200101~N~00014.38~Hpylori stool ia
+2020~87339~  ~20200101~N~00016.00~H pylori ag ia
+2020~87340~  ~20200101~N~00010.33~Hepatitis b surface ag ia
+2020~87341~  ~20200101~N~00010.33~Hepatitis b surface ag ia
+2020~87350~  ~20200101~N~00011.53~Hepatitis be ag ia
+2020~87380~  ~20200101~N~00018.36~Hepatitis delta ag ia
+2020~87385~  ~20200101~N~00013.25~Histoplasma capsul ag ia
+2020~87389~  ~20200101~N~00024.08~Hiv-1 ag w/hiv-1 & hiv-2 ab
+2020~87389~QW~20200101~N~00024.08~Hiv-1 ag w/hiv-1 & hiv-2 ab
+2020~87390~  ~20200101~N~00024.06~Hiv-1 ag ia
+2020~87391~  ~20200101~N~00021.90~Hiv-2 ag ia
+2020~87400~  ~20200101~N~00014.13~Influenza a/b ag ia
+2020~87420~  ~20200101~N~00013.91~Resp syncytial ag ia
+2020~87425~  ~20200101~N~00011.98~Rotavirus ag ia
+2020~87427~  ~20200101~N~00011.98~Shiga-like toxin ag ia
+2020~87430~  ~20200101~N~00016.81~Strep a ag ia
+2020~87449~  ~20200101~N~00011.98~Ag detect nos ia mult
+2020~87449~QW~20200101~N~00011.98~Ag detect nos ia mult
+2020~87450~  ~20200101~N~00009.59~Ag detect nos ia single
+2020~87451~  ~20200101~N~00010.51~Ag detect polyval ia mult
+2020~87471~  ~20200101~N~00035.09~Bartonella dna amp probe
+2020~87472~  ~20200101~N~00042.84~Bartonella dna quant
+2020~87475~  ~20200101~N~00020.05~Lyme dis dna dir probe
+2020~87476~  ~20200101~N~00035.09~Lyme dis dna amp probe
+2020~87480~  ~20200101~N~00020.05~Candida dna dir probe
+2020~87481~  ~20200101~N~00035.09~Candida dna amp probe
+2020~87482~  ~20200101~N~00055.74~Candida dna quant
+2020~87483~  ~20200101~N~00416.78~Cns dna amp probe type 12-25
+2020~87485~  ~20200101~N~00020.05~Chylmd pneum dna dir probe
+2020~87486~  ~20200101~N~00035.09~Chylmd pneum dna amp probe
+2020~87487~  ~20200101~N~00042.84~Chylmd pneum dna quant
+2020~87490~  ~20200101~N~00022.75~Chylmd trach dna dir probe
+2020~87491~  ~20200101~N~00035.09~Chylmd trach dna amp probe
+2020~87492~  ~20200101~N~00053.47~Chylmd trach dna quant
+2020~87493~  ~20200101~N~00037.27~C diff amplified probe
+2020~87495~  ~20200101~N~00030.03~Cytomeg dna dir probe
+2020~87496~  ~20200101~N~00035.09~Cytomeg dna amp probe
+2020~87497~  ~20200101~N~00042.84~Cytomeg dna quant
+2020~87498~  ~20200101~N~00035.09~Enterovirus probe&revrs trns
+2020~87500~  ~20200101~N~00035.09~Vanomycin dna amp probe
+2020~87501~  ~20200101~N~00051.31~Influenza dna amp prob 1+
+2020~87502~  ~20200101~N~00095.80~Influenza dna amp probe
+2020~87502~QW~20200101~N~00095.80~Influenza dna amp probe
+2020~87503~  ~20200101~N~00029.22~Influenza dna amp prob addl
+2020~87505~  ~20200101~N~00128.29~Nfct agent detection gi
+2020~87506~  ~20200101~N~00262.99~Iadna-dna/rna probe tq 6-11
+2020~87507~  ~20200101~N~00416.78~Iadna-dna/rna probe tq 12-25
+2020~87510~  ~20200101~N~00020.05~Gardner vag dna dir probe
+2020~87511~  ~20200101~N~00035.09~Gardner vag dna amp probe
+2020~87512~  ~20200101~N~00041.76~Gardner vag dna quant
+2020~87516~  ~20200101~N~00035.09~Hepatitis b dna amp probe
+2020~87517~  ~20200101~N~00042.84~Hepatitis b dna quant
+2020~87520~  ~20200101~N~00031.22~Hepatitis c rna dir probe
+2020~87521~  ~20200101~N~00035.09~Hepatitis c probe&rvrs trnsc
+2020~87522~  ~20200101~N~00042.84~Hepatitis c revrs trnscrpj
+2020~87525~  ~20200101~N~00029.80~Hepatitis g dna dir probe
+2020~87526~  ~20200101~N~00039.26~Hepatitis g dna amp probe
+2020~87527~  ~20200101~N~00041.76~Hepatitis g dna quant
+2020~87528~  ~20200101~N~00020.05~Hsv dna dir probe
+2020~87529~  ~20200101~N~00035.09~Hsv dna amp probe
+2020~87530~  ~20200101~N~00042.84~Hsv dna quant
+2020~87531~  ~20200101~N~00058.00~Hhv-6 dna dir probe
+2020~87532~  ~20200101~N~00035.09~Hhv-6 dna amp probe
+2020~87533~  ~20200101~N~00041.76~Hhv-6 dna quant
+2020~87534~  ~20200101~N~00021.92~Hiv-1 dna dir probe
+2020~87535~  ~20200101~N~00035.09~Hiv-1 probe&reverse trnscrpj
+2020~87536~  ~20200101~N~00085.10~Hiv-1 quant&revrse trnscrpj
+2020~87537~  ~20200101~N~00021.92~Hiv-2 dna dir probe
+2020~87538~  ~20200101~N~00035.09~Hiv-2 probe&revrse trnscripj
+2020~87539~  ~20200101~N~00058.62~Hiv-2 quant&revrse trnscripj
+2020~87540~  ~20200101~N~00020.05~Legion pneumo dna dir prob
+2020~87541~  ~20200101~N~00035.09~Legion pneumo dna amp prob
+2020~87542~  ~20200101~N~00041.76~Legion pneumo dna quant
+2020~87550~  ~20200101~N~00020.05~Mycobacteria dna dir probe
+2020~87551~  ~20200101~N~00048.24~Mycobacteria dna amp probe
+2020~87552~  ~20200101~N~00042.84~Mycobacteria dna quant
+2020~87555~  ~20200101~N~00026.88~M.tuberculo dna dir probe
+2020~87556~  ~20200101~N~00041.68~M.tuberculo dna amp probe
+2020~87557~  ~20200101~N~00042.84~M.tuberculo dna quant
+2020~87560~  ~20200101~N~00027.29~M.avium-intra dna dir prob
+2020~87561~  ~20200101~N~00035.09~M.avium-intra dna amp prob
+2020~87562~  ~20200101~N~00042.84~M.avium-intra dna quant
+2020~87563~  ~20200101~N~00035.09~M. genitalium amp probe
+2020~87580~  ~20200101~N~00020.05~M.pneumon dna dir probe
+2020~87581~  ~20200101~N~00035.09~M.pneumon dna amp probe
+2020~87582~  ~20200101~N~00302.62~M.pneumon dna quant
+2020~87590~  ~20200101~N~00026.88~N.gonorrhoeae dna dir prob
+2020~87591~  ~20200101~N~00035.09~N.gonorrhoeae dna amp prob
+2020~87592~  ~20200101~N~00042.84~N.gonorrhoeae dna quant
+2020~87623~  ~20200101~N~00035.09~Hpv low-risk types
+2020~87624~  ~20200101~N~00035.09~Hpv high-risk types
+2020~87625~  ~20200101~N~00040.55~Hpv types 16 & 18 only
+2020~87631~  ~20200101~N~00142.63~Resp virus 3-5 targets
+2020~87631~QW~20200101~N~00142.63~Resp virus 3-5 targets
+2020~87632~  ~20200101~N~00218.06~Resp virus 6-11 targets
+2020~87633~  ~20200101~N~00416.78~Resp virus 12-25 targets
+2020~87633~QW~20200101~N~00416.78~Resp virus 12-25 targets
+2020~87634~  ~20200101~N~00070.20~Rsv dna/rna amp probe
+2020~87634~QW~20200101~N~00070.20~Rsv dna/rna amp probe
+2020~87635~  ~20200101~L~00000.00~Sars-cov-2 covid-19 amp prb
+2020~87640~  ~20200101~N~00035.09~Staph a dna amp probe
+2020~87641~  ~20200101~N~00035.09~Mr-staph dna amp probe
+2020~87650~  ~20200101~N~00020.05~Strep a dna dir probe
+2020~87650~QW~20200101~N~00020.05~Strep a dna dir probe
+2020~87651~  ~20200101~N~00035.09~Strep a dna amp probe
+2020~87651~QW~20200101~N~00035.09~Strep a dna amp probe
+2020~87652~  ~20200101~N~00041.76~Strep a dna quant
+2020~87653~  ~20200101~N~00035.09~Strep b dna amp probe
+2020~87660~  ~20200101~N~00020.05~Trichomonas vagin dir probe
+2020~87661~  ~20200101~N~00035.09~Trichomonas vaginalis amplif
+2020~87662~  ~20200101~N~00051.31~Zika virus dna/rna amp probe
+2020~87797~  ~20200101~N~00030.03~Detect agent nos dna dir
+2020~87798~  ~20200101~N~00035.09~Detect agent nos dna amp
+2020~87799~  ~20200101~N~00042.84~Detect agent nos dna quant
+2020~87800~  ~20200101~N~00043.67~Detect agnt mult dna direc
+2020~87801~  ~20200101~N~00070.20~Detect agnt mult dna ampli
+2020~87801~QW~20200101~N~00070.20~Detect agnt mult dna ampli
+2020~87802~  ~20200101~N~00012.73~Strep b assay w/optic
+2020~87803~  ~20200101~N~00016.00~Clostridium toxin a w/optic
+2020~87804~  ~20200101~N~00016.55~Influenza assay w/optic
+2020~87804~QW~20200101~N~00016.55~Influenza assay w/optic
+2020~87806~  ~20200101~N~00032.77~Hiv antigen w/hiv antibodies
+2020~87806~QW~20200101~N~00032.77~Hiv antigen w/hiv antibodies
+2020~87807~  ~20200101~N~00013.10~Rsv assay w/optic
+2020~87807~QW~20200101~N~00013.10~Rsv assay w/optic
+2020~87808~  ~20200101~N~00015.29~Trichomonas assay w/optic
+2020~87808~QW~20200101~N~00015.29~Trichomonas assay w/optic
+2020~87809~  ~20200101~N~00021.76~Adenovirus assay w/optic
+2020~87809~QW~20200101~N~00021.76~Adenovirus assay w/optic
+2020~87810~  ~20200101~N~00035.29~Chylmd trach assay w/optic
+2020~87850~  ~20200101~N~00024.56~N. gonorrhoeae assay w/optic
+2020~87880~  ~20200101~N~00016.53~Strep a assay w/optic
+2020~87880~QW~20200101~N~00016.53~Strep a assay w/optic
+2020~87899~  ~20200101~N~00016.07~Agent nos assay w/optic
+2020~87899~QW~20200101~N~00016.07~Agent nos assay w/optic
+2020~87900~  ~20200101~N~00130.35~Phenotype infect agent drug
+2020~87901~  ~20200101~N~00257.45~Genotype dna hiv reverse t
+2020~87902~  ~20200101~N~00257.45~Genotype dna/rna hep c
+2020~87903~  ~20200101~N~00488.66~Phenotype dna hiv w/culture
+2020~87904~  ~20200101~N~00026.07~Phenotype dna hiv w/clt add
+2020~87905~  ~20200101~N~00012.22~Sialidase enzyme assay
+2020~87905~QW~20200101~N~00012.22~Sialidase enzyme assay
+2020~87906~  ~20200101~N~00128.73~Genotype dna/rna hiv
+2020~87910~  ~20200101~N~00257.45~Genotype cytomegalovirus
+2020~87912~  ~20200101~N~00257.45~Genotype dna hepatitis b
+2020~88130~  ~20200101~N~00017.98~Sex chromatin identification
+2020~88140~  ~20200101~N~00007.99~Sex chromatin identification
+2020~88142~  ~20200101~N~00020.26~Cytopath c/v thin layer
+2020~88143~  ~20200101~N~00023.04~Cytopath c/v thin layer redo
+2020~88147~  ~20200101~N~00050.56~Cytopath c/v automated
+2020~88148~  ~20200101~N~00016.00~Cytopath c/v auto rescreen
+2020~88150~  ~20200101~N~00015.12~Cytopath c/v manual
+2020~88152~  ~20200101~N~00027.64~Cytopath c/v auto redo
+2020~88153~  ~20200101~N~00024.03~Cytopath c/v redo
+2020~88155~  ~20200101~N~00014.65~Cytopath c/v index add-on
+2020~88164~  ~20200101~N~00015.12~Cytopath tbs c/v manual
+2020~88165~  ~20200101~N~00042.22~Cytopath tbs c/v redo
+2020~88166~  ~20200101~N~00015.12~Cytopath tbs c/v auto redo
+2020~88167~  ~20200101~N~00015.12~Cytopath tbs c/v select
+2020~88174~  ~20200101~N~00025.37~Cytopath c/v auto in fluid
+2020~88175~  ~20200101~N~00026.61~Cytopath c/v auto fluid redo
+2020~88230~  ~20200101~N~00116.49~Tissue culture lymphocyte
+2020~88233~  ~20200101~N~00140.73~Tissue culture skin/biopsy
+2020~88235~  ~20200101~N~00150.30~Tissue culture placenta
+2020~88237~  ~20200101~N~00143.75~Tissue culture bone marrow
+2020~88239~  ~20200101~N~00147.52~Tissue culture tumor
+2020~88240~  ~20200101~N~00013.07~Cell cryopreserve/storage
+2020~88241~  ~20200101~N~00012.09~Frozen cell preparation
+2020~88245~  ~20200101~N~00173.17~Chromosome analysis 20-25
+2020~88248~  ~20200101~N~00173.17~Chromosome analysis 50-100
+2020~88249~  ~20200101~N~00173.17~Chromosome analysis 100
+2020~88261~  ~20200101~N~00264.34~Chromosome analysis 5
+2020~88262~  ~20200101~N~00125.49~Chromosome analysis 15-20
+2020~88263~  ~20200101~N~00150.29~Chromosome analysis 45
+2020~88264~  ~20200101~N~00144.61~Chromosome analysis 20-25
+2020~88267~  ~20200101~N~00188.57~Chromosome analys placenta
+2020~88269~  ~20200101~N~00173.66~Chromosome analys amniotic
+2020~88271~  ~20200101~N~00021.42~Cytogenetics dna probe
+2020~88272~  ~20200101~N~00040.70~Cytogenetics 3-5
+2020~88273~  ~20200101~N~00034.81~Cytogenetics 10-30
+2020~88274~  ~20200101~N~00042.38~Cytogenetics 25-99
+2020~88275~  ~20200101~N~00051.19~Cytogenetics 100-300
+2020~88280~  ~20200101~N~00033.47~Chromosome karyotype study
+2020~88283~  ~20200101~N~00068.60~Chromosome banding study
+2020~88285~  ~20200101~N~00026.91~Chromosome count additional
+2020~88289~  ~20200101~N~00034.43~Chromosome study additional
+2020~88371~  ~20200101~N~00022.23~Protein western blot tissue
+2020~88372~  ~20200101~N~00026.22~Protein analysis w/probe
+2020~88720~  ~20200101~N~00005.02~Bilirubin total transcut
+2020~88738~  ~20200101~N~00005.02~Hgb quant transcutaneous
+2020~88740~  ~20200101~N~00009.37~Transcutaneous carboxyhb
+2020~88741~  ~20200101~N~00009.37~Transcutaneous methb
+2020~89050~  ~20200101~N~00004.72~Body fluid cell count
+2020~89051~  ~20200101~N~00005.60~Body fluid cell count
+2020~89055~  ~20200101~N~00004.27~Leukocyte assessment fecal
+2020~89060~  ~20200101~N~00007.33~Exam synovial fluid crystals
+2020~89125~  ~20200101~N~00005.88~Specimen fat stain
+2020~89160~  ~20200101~N~00004.85~Exam feces for meat fibers
+2020~89190~  ~20200101~N~00005.79~Nasal smear for eosinophils
+2020~89300~  ~20200101~N~00009.84~Semen analysis w/huhner
+2020~89300~QW~20200101~N~00009.84~Semen analysis w/huhner
+2020~89310~  ~20200101~N~00008.61~Semen analysis w/count
+2020~89320~  ~20200101~N~00012.31~Semen anal vol/count/mot
+2020~89321~  ~20200101~N~00012.05~Semen anal sperm detection
+2020~89321~QW~20200101~N~00012.05~Semen anal sperm detection
+2020~89322~  ~20200101~N~00015.50~Semen anal strict criteria
+2020~89325~  ~20200101~N~00010.67~Sperm antibody test
+2020~89329~  ~20200101~N~00019.59~Sperm evaluation test
+2020~89330~  ~20200101~N~00010.38~Evaluation cervical mucus
+2020~89331~  ~20200101~N~00019.59~Retrograde ejaculation anal
+
